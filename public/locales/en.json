@@ -1,0 +1,121 @@
+{
+	"general": {
+		"EMAIL": "Email",
+		"PASSWORD": "Password"
+	},
+	"components": {
+		"GO_BACK": {
+			"HOME": "Get back at home",
+			"BACK": "Back"
+		}
+	},
+
+	"screens": {
+		"HOME": {
+			"TITLE_SAMPLE": "ContextAPI:",
+			"BUTTON_SAMPLE": "navigate",
+			"TITLE_REDUX": "Redux:",
+			"BUTTON_REDUX": "navigate",
+			"TITLE_ZUSTAND": "Zustand:",
+			"BUTTON_ZUSTAND": "navigate"
+		}
+	},
+	"account": {
+		"ROLE": {
+			"ADMIN": "Admin",
+			"MEMBER": "Member"
+		}
+	},
+	"login": {
+		"LOGIN": "Login with Telegram",
+		"LOGIN_BUTTON": "LOGIN"
+	},
+	"router": {
+		"TITLE": "An unexpected error as occurred.",
+		"DESCRIPTION": "Please, try again."
+	},
+	"errors": {
+		"MISSING_DATA": "Missing required data.",
+		"ACCOUNT_NOT_FOUND_EMAIL": "Account not found for this email.",
+		"ACCOUNT_NOT_FOUND": "Account not found.",
+		"OTP_NOT_FOUND": "The provided OTP is invalid or expired.",
+		"API_NOT_FOUND": "API not found.",
+		"API_KEY_NOT_FOUND": "API key not found.",
+		"ACCOUNT_IS_BEING_USED": "Account is already in use.",
+		"API_IS_BEING_USED": "API is already in use.",
+		"API_NAME_IS_BEING_USED": "API name is already in use.",
+		"API_URL_IS_BEING_USED": "API URL is already in use.",
+		"OTP_HAS_BEEN_USED": "That OTP has already been used.",
+		"INVALID_EMAIL": "Invalid email address.",
+		"PASSWORDS_DONT_MATCH": "Passwords don't match.",
+		"INVALID_PASSWORD": "Invalid password.",
+		"INVALID_ENUM": "Invalid enum value.",
+		"INVALID_TOKEN": "Invalid token.",
+		"WRONG_CREDENTIALS": "Wrong credentials provided.",
+		"USER_LOCKED": "The user is locked.",
+		"UNEXPECTED_ERROR": "Unexpected error.",
+		"SOMETHING_WENT_WRONG": "Something went wrong.",
+		"TRY_AGAIN": "Try again"
+	},
+	"status": {
+		"OK": "Request succeeded.",
+		"CREATED": "Resource was successfully created.",
+		"ACCEPTED": "Request has been accepted for processing.",
+		"NON_AUTHORITATIVE_INFORMATION": "Request returned non-authoritative information.",
+		"NO_CONTENT": "Request succeeded but returned no content.",
+		"RESET_CONTENT": "Request succeeded and prompted content reset.",
+		"PARTIAL_CONTENT": "Request succeeded and returned partial content.",
+		"MULTI_STATUS": "Request returned multiple statuses.",
+		"ALREADY_REPORTED": "This resource has already been reported.",
+		"IM_USED": "IM Used. Request successfully processed.",
+		"MULTIPLE_CHOICES": "There are multiple choices for the requested resource.",
+		"MOVED_PERMANENTLY": "The resource has been moved permanently.",
+		"FOUND_PREVIOUSLY_MOVED_TEMPORARILY": "The resource has been found (previously moved temporarily).",
+		"SEE_OTHER": "See another resource for this request.",
+		"NOT_MODIFIED": "The resource has not been modified.",
+		"USE_PROXY": "A proxy must be used to access this resource.",
+		"SWITCH_PROXY": "Switching proxy is required.",
+		"TEMPORARY_REDIRECT": "The resource has been temporarily redirected.",
+		"PERMANENT_REDIRECT": "The resource has been permanently redirected.",
+		"BAD_REQUEST": "The request was invalid. Please check your input.",
+		"UNAUTHORIZED": "You are not authorized to perform this action.",
+		"PAYMENT_REQUIRED": "Payment is required to access this resource.",
+		"FORBIDDEN": "Access to this resource is forbidden.",
+		"NOT_FOUND": "The requested resource was not found.",
+		"METHOD_NOT_ALLOWED": "This method is not allowed for the requested resource.",
+		"NOT_ACCEPTABLE": "The requested resource is not acceptable.",
+		"PROXY_AUTHENTICATION_REQUIRED": "Proxy authentication is required.",
+		"REQUEST_TIMEOUT": "The server timed out waiting for the request.",
+		"CONFLICT": "There was a conflict with the current state of the resource.",
+		"GONE": "The requested resource is no longer available.",
+		"LENGTH_REQUIRED": "The request must include the content length.",
+		"PRECONDITION_FAILED": "The precondition for this request failed.",
+		"PAYLOAD_TOO_LARGE": "The request payload is too large.",
+		"URI_TOO_LONG": "The request URI is too long.",
+		"UNSUPPORTED_MEDIA_TYPE": "The media type of the request is not supported.",
+		"RANGE_NOT_SATISFIABLE": "The range in the request is not satisfiable.",
+		"EXPECTATION_FAILED": "The expectation in the request could not be met.",
+		"IM_A_TEAPOT": "I'm a teapot. The requested operation cannot be performed.",
+		"MISDIRECTED_REQUEST": "The request was misdirected to an incorrect server.",
+		"UNPROCESSABLE_ENTITY": "The request is well-formed but cannot be processed.",
+		"LOCKED": "The resource is locked and cannot be modified.",
+		"FAILED_DEPENDENCY": "A dependent request failed.",
+		"TOO_EARLY": "The request was sent too early.",
+		"UPGRADE_REQUIRED": "The client must upgrade to proceed.",
+		"PRECONDITION_REQUIRED": "Preconditions are required for this request.",
+		"TOO_MANY_REQUESTS": "You have made too many requests. Please slow down.",
+		"REQUEST_HEADER_FIELDS_TOO_LARGE": "The request header fields are too large.",
+		"UNAVAILABLE_FOR_LEGAL_REASONS": "This resource is unavailable for legal reasons.",
+		"INTERNAL_SERVER_ERROR": "An internal server error occurred. Please try again later.",
+		"NOT_IMPLEMENTED": "This feature has not been implemented.",
+		"BAD_GATEWAY": "The server received an invalid response from the upstream server.",
+		"SERVICE_UNAVAILABLE": "The service is currently unavailable. Please try again later.",
+		"GATEWAY_TIMEOUT": "The server timed out waiting for a response from the upstream server.",
+		"HTTP_VERSION_NOT_SUPPORTED": "The requested HTTP version is not supported.",
+		"VARIANT_ALSO_NEGOTIATES": "The server variant also negotiates.",
+		"INSUFFICIENT_STORAGE": "The server has insufficient storage to complete the request.",
+		"LOOP_DETECTED": "The server detected an infinite loop.",
+		"NOT_EXTENDED": "Further extensions to the request are required.",
+		"NETWORK_AUTHENTICATION_REQUIRED": "Network authentication is required."
+	}
+}

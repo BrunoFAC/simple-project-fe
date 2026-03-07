@@ -1,0 +1,8354 @@
+{
+  "generated_at": "2026-03-07T20:23:43.212Z",
+  "sources": [
+    "https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/",
+    "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack",
+    "https://www.ox.security/blog/npm-2-0-hack-40-npm-packages-hit-in-major-supply-chain-attack/",
+    "https://www.endorlabs.com/learn/npm-malware-outbreak-tinycolor-and-crowdstrike-packages-compromised"
+  ],
+  "packages": [
+    {
+      "name": "-",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "6.0.2",
+        "7.0.2",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": ".",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "7.0.2",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "@4.1.2",
+      "versions": [
+        "4.6.43",
+        "encounter-playground@0.0.5",
+        "gesturehandler@2.0.35",
+        "json-rules-engine-simplified@0.2.4",
+        "koa2-swagger-ui@5.11.2",
+        "text@1.6.13",
+        "torrent-file@4.1.2",
+        "transmission@7.3.1",
+        "ts-base32@4.0.2",
+        "ui-collectionview@6.0.6",
+        "ui-drawer@0.1.30",
+        "ui-image@4.5.6"
+      ]
+    },
+    {
+      "name": "@ahmedhfarag",
+      "versions": [
+        "2.0.13",
+        "2.0.14",
+        "2.0.15",
+        "2.0.18",
+        "2.0.24",
+        "2.0.27",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "db-context@2.0.21",
+        "db-context@2.0.24",
+        "di-node@2.0.13",
+        "di@2.0.28",
+        "di@2.0.32",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "@ahmedhfarag/ngx-perfect-scrollbar",
+      "versions": [
+        "20.0.20"
+      ]
+    },
+    {
+      "name": "@ahmedhfarag/ngx-virtual-scroller",
+      "versions": [
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "@art-ws",
+      "versions": [
+        "0.0.10",
+        "0.0.9",
+        "0.1.11",
+        "0.1.12",
+        "0.1.9",
+        "0.19.1",
+        "0.34.2",
+        "0.4.1",
+        "1.0.1",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.9",
+        "1.1.4",
+        "1.1.4-0",
+        "1.1.5",
+        "1.1.5-0",
+        "1.1.6",
+        "1.205.1",
+        "14.1.35",
+        "2.0.13",
+        "2.0.14",
+        "2.0.15",
+        "2.0.18",
+        "2.0.21",
+        "2.0.22",
+        "2.0.23",
+        "2.0.24",
+        "2.0.25",
+        "2.0.26",
+        "2.0.27",
+        "2.0.28",
+        "2.0.32",
+        "2.0.4",
+        "2.0.5",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "7.2.72",
+        "8.1.1",
+        "basic-ui-components@1.0.5",
+        "commitlint@8.1.1",
+        "commitlint@8.1.2",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "db-context@2.0.21",
+        "db-context@2.0.24",
+        "di-node@2.0.13",
+        "di@2.0.28",
+        "di@2.0.32",
+        "eslint@1.0.5",
+        "eslint@1.0.6",
+        "falcon-shoelace@0.4.1",
+        "falcon-shoelace@0.4.2",
+        "fastify-http-server@2.0.24",
+        "fastify-http-server@2.0.27",
+        "foundry-js@0.19.1",
+        "foundry-js@0.19.2",
+        "glide-core@0.34.2",
+        "glide-core@0.34.3",
+        "http-server@2.0.21",
+        "http-server@2.0.25",
+        "logscale-dashboard@1.205.1",
+        "logscale-dashboard@1.205.2",
+        "openapi@0.1.12",
+        "openapi@0.1.9",
+        "package-base@1.0.5",
+        "package-base@1.0.6",
+        "prettier@1.0.5",
+        "prettier@1.0.6",
+        "slf@2.0.15",
+        "slf@2.0.22",
+        "ssl-info@1.0.10",
+        "ssl-info@1.0.9",
+        "web-app@1.0.3",
+        "web-app@1.0.4"
+      ]
+    },
+    {
+      "name": "@art-ws/common",
+      "versions": [
+        "2.0.22",
+        "2.0.28"
+      ]
+    },
+    {
+      "name": "@art-ws/config-eslint",
+      "versions": [
+        "2.0.4",
+        "2.0.5"
+      ]
+    },
+    {
+      "name": "@art-ws/config-ts",
+      "versions": [
+        "2.0.7",
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "@art-ws/db-context",
+      "versions": [
+        "2.0.21",
+        "2.0.24"
+      ]
+    },
+    {
+      "name": "@art-ws/di",
+      "versions": [
+        "2.0.28",
+        "2.0.32"
+      ]
+    },
+    {
+      "name": "@art-ws/di-node",
+      "versions": [
+        "2.0.13"
+      ]
+    },
+    {
+      "name": "@art-ws/eslint",
+      "versions": [
+        "1.0.5",
+        "1.0.6"
+      ]
+    },
+    {
+      "name": "@art-ws/fastify-http-server",
+      "versions": [
+        "2.0.24",
+        "2.0.27"
+      ]
+    },
+    {
+      "name": "@art-ws/http-server",
+      "versions": [
+        "2.0.21",
+        "2.0.25"
+      ]
+    },
+    {
+      "name": "@art-ws/openapi",
+      "versions": [
+        "0.1.12",
+        "0.1.9"
+      ]
+    },
+    {
+      "name": "@art-ws/package-base",
+      "versions": [
+        "1.0.5",
+        "1.0.6"
+      ]
+    },
+    {
+      "name": "@art-ws/prettier",
+      "versions": [
+        "1.0.5",
+        "1.0.6"
+      ]
+    },
+    {
+      "name": "@art-ws/slf",
+      "versions": [
+        "2.0.15",
+        "2.0.22"
+      ]
+    },
+    {
+      "name": "@art-ws/ssl-info",
+      "versions": [
+        "1.0.10",
+        "1.0.9"
+      ]
+    },
+    {
+      "name": "@art-ws/web-app",
+      "versions": [
+        "1.0.3",
+        "1.0.4"
+      ]
+    },
+    {
+      "name": "@basic-ui-components-stc",
+      "versions": [
+        "1.0.5",
+        "2.0.7",
+        "20.0.4",
+        "3.5.2",
+        "7.2.73",
+        "basic-ui-components@1.0.5",
+        "commitlint@8.1.1",
+        "commitlint@8.1.2",
+        "falcon-shoelace@0.4.1",
+        "falcon-shoelace@0.4.2",
+        "foundry-js@0.19.1",
+        "foundry-js@0.19.2",
+        "glide-core@0.34.2",
+        "glide-core@0.34.3",
+        "logscale-dashboard@1.205.1",
+        "logscale-dashboard@1.205.2",
+        "logscale-file-editor@1.205.1"
+      ]
+    },
+    {
+      "name": "@basic-ui-components-stc/basic-ui-components",
+      "versions": [
+        "1.0.5"
+      ]
+    },
+    {
+      "name": "@crowdstrike",
+      "versions": [
+        "0.1.2",
+        "0.1.6",
+        "0.19.1",
+        "0.19.2",
+        "0.2.1",
+        "0.34.2",
+        "0.34.3",
+        "0.4.1",
+        "0.4.2",
+        "1.0.1",
+        "1.0.12",
+        "1.0.13",
+        "1.1.2",
+        "1.1.3",
+        "1.205.1",
+        "1.205.2",
+        "1.4.2",
+        "11.0.2",
+        "11.0.3",
+        "13.0.1",
+        "13.0.2",
+        "2.1.5",
+        "2.1.6",
+        "2.2.2",
+        "3.0.8",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "4.1.1",
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "6.0.1",
+        "7.0.1",
+        "7.2.1",
+        "8.1.1",
+        "8.1.2",
+        "9.0.36",
+        "9.0.44",
+        "commitlint@8.1.1",
+        "commitlint@8.1.2",
+        "deluge@7.2.1",
+        "falcon-shoelace@0.4.1",
+        "falcon-shoelace@0.4.2",
+        "foundry-js@0.19.1",
+        "foundry-js@0.19.2",
+        "glide-core@0.34.2",
+        "glide-core@0.34.3",
+        "golang-template@1.4.2",
+        "logscale-dashboard@1.205.1",
+        "logscale-dashboard@1.205.2",
+        "logscale-file-editor@1.205.1",
+        "logscale-file-editor@1.205.2",
+        "logscale-parser-edit@1.205.1",
+        "logscale-parser-edit@1.205.2",
+        "logscale-search@1.205.1",
+        "logscale-search@1.205.2",
+        "magnet-link@4.0.3",
+        "ngx-codemirror@7.0.1",
+        "ngx-csv@6.0.1",
+        "ngx-emoji-mart@9.2.1",
+        "ngx-rightclick@4.0.1",
+        "qbittorrent@9.7.1",
+        "react-adsense@2.0.1",
+        "shared-torrent@6.3.1",
+        "tailwind-toucan-base@5.0.1",
+        "tailwind-toucan-base@5.0.2",
+        "tinycolor@4.1.1"
+      ]
+    },
+    {
+      "name": "@crowdstrike/commitlint",
+      "versions": [
+        "8.1.1",
+        "8.1.2"
+      ]
+    },
+    {
+      "name": "@crowdstrike/falcon-shoelace",
+      "versions": [
+        "0.4.1",
+        "0.4.2"
+      ]
+    },
+    {
+      "name": "@crowdstrike/foundry-js",
+      "versions": [
+        "0.19.1",
+        "0.19.2"
+      ]
+    },
+    {
+      "name": "@crowdstrike/glide-core",
+      "versions": [
+        "0.34.2",
+        "0.34.3"
+      ]
+    },
+    {
+      "name": "@crowdstrike/logscale-dashboard",
+      "versions": [
+        "1.205.1",
+        "1.205.2"
+      ]
+    },
+    {
+      "name": "@crowdstrike/logscale-file-editor",
+      "versions": [
+        "1.205.1",
+        "1.205.2"
+      ]
+    },
+    {
+      "name": "@crowdstrike/logscale-parser-edit",
+      "versions": [
+        "1.205.1",
+        "1.205.2"
+      ]
+    },
+    {
+      "name": "@crowdstrike/logscale-search",
+      "versions": [
+        "1.205.1",
+        "1.205.2"
+      ]
+    },
+    {
+      "name": "@crowdstrike/tailwind-toucan-base",
+      "versions": [
+        "5.0.1",
+        "5.0.2"
+      ]
+    },
+    {
+      "name": "@ctrl",
+      "versions": [
+        "0.1.2",
+        "0.1.30",
+        "0.1.6",
+        "0.1.7",
+        "0.2.1",
+        "1.4.2",
+        "1.4.3",
+        "1.6.11",
+        "1.6.13",
+        "1.6.9",
+        "1.9.1",
+        "1.9.2",
+        "10.0.1",
+        "10.0.2",
+        "14.1.1",
+        "14.1.2",
+        "19.0.1",
+        "19.0.2",
+        "2.0.1",
+        "2.0.2",
+        "2.0.35",
+        "3.0.5",
+        "3.0.6",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "4.1.1",
+        "4.1.2",
+        "4.1.2.",
+        "4.5.6",
+        "4.6.43",
+        "5.11.1",
+        "5.11.2",
+        "6.0.1",
+        "6.0.2",
+        "6.0.6",
+        "6.3.1",
+        "6.3.2",
+        "7.0.1",
+        "7.0.2",
+        "7.2.1",
+        "7.2.2",
+        "7.2.72",
+        "7.3.1",
+        "8.0.1",
+        "9.0.2",
+        "9.0.22",
+        "9.0.42",
+        "9.2.1",
+        "9.2.2",
+        "9.7.1",
+        "9.7.2",
+        "@4.1.2",
+        "arraybuffers@1.1.6",
+        "arraybuffers@1.1.7",
+        "arraybuffers@1.1.8",
+        "core@0.2.1",
+        "cqrs@0.1.6",
+        "deluge@7.2.1",
+        "deluge@7.2.2",
+        "demo@0.1.2",
+        "encounter-playground@0.0.5",
+        "eslint-config@0.1.2",
+        "gesturehandler@2.0.35",
+        "golang-template@1.4.2",
+        "golang-template@1.4.3",
+        "json-rules-engine-simplified@0.2.4",
+        "koa2-swagger-ui@5.11.2",
+        "logger@0.1.6",
+        "magnet-link@4.0.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.1",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.1",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.1",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.1",
+        "ngx-rightclick@4.0.2",
+        "perms@3.0.5",
+        "qbittorrent@9.7.1",
+        "qbittorrent@9.7.2",
+        "react-adsense@2.0.1",
+        "react-adsense@2.0.2",
+        "scalar@0.1.7",
+        "shared-torrent@6.3.1",
+        "shared-torrent@6.3.2",
+        "text@1.6.13",
+        "tinycolor@4.1.1",
+        "tinycolor@4.1.1.",
+        "tinycolor@4.1.2",
+        "torrent-file@4.1.1",
+        "torrent-file@4.1.2",
+        "transmission@7.3.1",
+        "ts-base32@4.0.1",
+        "ts-base32@4.0.2",
+        "ui-collectionview@6.0.6",
+        "ui-drawer@0.1.30",
+        "ui-image@4.5.6",
+        "ui-material-bottomsheet@7.2.72",
+        "ui-material-core@7.2.76",
+        "validation@0.1.6"
+      ]
+    },
+    {
+      "name": "@ctrl/deluge",
+      "versions": [
+        "7.2.1",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "@ctrl/golang-template",
+      "versions": [
+        "1.4.2",
+        "1.4.3"
+      ]
+    },
+    {
+      "name": "@ctrl/magnet-link",
+      "versions": [
+        "4.0.3",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "@ctrl/ngx-codemirror",
+      "versions": [
+        "7.0.1",
+        "7.0.2"
+      ]
+    },
+    {
+      "name": "@ctrl/ngx-csv",
+      "versions": [
+        "6.0.1",
+        "6.0.2"
+      ]
+    },
+    {
+      "name": "@ctrl/ngx-emoji-mart",
+      "versions": [
+        "9.2.1",
+        "9.2.2"
+      ]
+    },
+    {
+      "name": "@ctrl/ngx-rightclick",
+      "versions": [
+        "4.0.1",
+        "4.0.2"
+      ]
+    },
+    {
+      "name": "@ctrl/qbittorrent",
+      "versions": [
+        "9.7.1",
+        "9.7.2"
+      ]
+    },
+    {
+      "name": "@ctrl/react-adsense",
+      "versions": [
+        "2.0.1",
+        "2.0.2"
+      ]
+    },
+    {
+      "name": "@ctrl/shared-torrent",
+      "versions": [
+        "6.3.1",
+        "6.3.2"
+      ]
+    },
+    {
+      "name": "@ctrl/tinycolor",
+      "versions": [
+        "4.1.1",
+        "4.1.2"
+      ]
+    },
+    {
+      "name": "@ctrl/torrent-file",
+      "versions": [
+        "4.1.1",
+        "4.1.2"
+      ]
+    },
+    {
+      "name": "@ctrl/transmission",
+      "versions": [
+        "7.3.1"
+      ]
+    },
+    {
+      "name": "@ctrl/ts-base32",
+      "versions": [
+        "4.0.1",
+        "4.0.2"
+      ]
+    },
+    {
+      "name": "@hestjs",
+      "versions": [
+        "0.1.1",
+        "0.1.2",
+        "0.1.3",
+        "0.1.6",
+        "0.1.7",
+        "0.1.9",
+        "0.2.1",
+        "0.2.30",
+        "1.0.9",
+        "1.1.6",
+        "1.1.8",
+        "1.3.1",
+        "2.0.35",
+        "2.14.4",
+        "3.0.5",
+        "3.0.7",
+        "3.0.9",
+        "3.5.2",
+        "3.5.4",
+        "5.3.8",
+        "arraybuffers@1.1.6",
+        "arraybuffers@1.1.7",
+        "arraybuffers@1.1.8",
+        "core@0.2.1",
+        "cqrs@0.1.6",
+        "demo@0.1.2",
+        "eslint-config@0.1.2",
+        "logger@0.1.6",
+        "perms@3.0.5",
+        "perms@3.0.6",
+        "perms@3.0.7",
+        "perms@3.0.8",
+        "perms@3.0.9",
+        "scalar@0.1.7",
+        "sentry@4.6.43",
+        "sqlite@3.5.3",
+        "sqlite@3.5.4",
+        "validation@0.1.6"
+      ]
+    },
+    {
+      "name": "@hestjs/core",
+      "versions": [
+        "0.2.1"
+      ]
+    },
+    {
+      "name": "@hestjs/cqrs",
+      "versions": [
+        "0.1.6"
+      ]
+    },
+    {
+      "name": "@hestjs/demo",
+      "versions": [
+        "0.1.2"
+      ]
+    },
+    {
+      "name": "@hestjs/eslint-config",
+      "versions": [
+        "0.1.2"
+      ]
+    },
+    {
+      "name": "@hestjs/logger",
+      "versions": [
+        "0.1.6"
+      ]
+    },
+    {
+      "name": "@hestjs/scalar",
+      "versions": [
+        "0.1.7"
+      ]
+    },
+    {
+      "name": "@hestjs/validation",
+      "versions": [
+        "0.1.6"
+      ]
+    },
+    {
+      "name": "@nativescript-community",
+      "versions": [
+        "0.1.1",
+        "0.1.3",
+        "0.1.30",
+        "0.2.30",
+        "0.2.31",
+        "0.2.32",
+        "0.2.33",
+        "0.3.16",
+        "0.3.21",
+        "0.4.1",
+        "0.4.29",
+        "0.7.39",
+        "0.8.5",
+        "1.0.24",
+        "1.0.5",
+        "1.1.27",
+        "1.1.28",
+        "1.1.6",
+        "1.1.7",
+        "1.1.8",
+        "1.3.1",
+        "1.3.35",
+        "1.3.36",
+        "1.3.37",
+        "1.6.10",
+        "1.6.11",
+        "1.6.12",
+        "1.6.13",
+        "1.6.9",
+        "1.9.2",
+        "13.0.32",
+        "14.1.35",
+        "14.1.36",
+        "14.1.37",
+        "14.1.38",
+        "2.0.35",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9",
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "2.5.7",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7",
+        "3.0.5",
+        "3.0.6",
+        "3.0.7",
+        "3.0.8",
+        "3.0.9",
+        "3.5.2",
+        "3.5.3",
+        "3.5.4",
+        "3.5.5",
+        "4.0.4",
+        "4.1.2",
+        "4.5.6",
+        "4.6.43",
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "5.0.4",
+        "5.1.11",
+        "5.1.12",
+        "5.1.13",
+        "5.1.14",
+        "6.0.326",
+        "6.0.6",
+        "7.2.2",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76",
+        "angular@20.0.4",
+        "angular@20.0.5",
+        "angular@20.0.6",
+        "arraybuffers@1.1.6",
+        "arraybuffers@1.1.7",
+        "arraybuffers@1.1.8",
+        "config-manager@0.1.1",
+        "eslint-config@0.1.1",
+        "focus@20.0.4",
+        "focus@20.0.5",
+        "focus@20.0.6",
+        "logger@0.1.3",
+        "nativescript-checkbox@2.0.6",
+        "nativescript-checkbox@2.0.7",
+        "ngx-toastr@19.0.2",
+        "perms@3.0.5",
+        "perms@3.0.6",
+        "perms@3.0.7",
+        "perms@3.0.8",
+        "perms@3.0.9",
+        "react-complaint-image@0.0.35",
+        "react-jsonschema-form-conditionals@0.3.21",
+        "rxnt-authentication@0.0.6",
+        "rxnt-healthchecks-nestjs@1.0.5",
+        "sentry@4.6.43",
+        "sqlite@3.5.3",
+        "sqlite@3.5.4",
+        "sqlite@3.5.5",
+        "swc-plugin-component-annotate@1.9.2",
+        "text@1.6.10",
+        "text@1.6.11",
+        "text@1.6.12",
+        "text@1.6.13",
+        "text@1.6.9",
+        "typeorm@0.2.30",
+        "typeorm@0.2.31",
+        "typeorm@0.2.32",
+        "typeorm@0.2.33",
+        "ui-collectionview@6.0.6",
+        "ui-document-picker@1.1.27",
+        "ui-document-picker@1.1.28",
+        "ui-drawer@0.1.30",
+        "ui-image@4.5.6",
+        "ui-label@1.3.35",
+        "ui-label@1.3.36",
+        "ui-label@1.3.37",
+        "ui-material-bottom-navigation@7.2.72",
+        "ui-material-bottom-navigation@7.2.73",
+        "ui-material-bottom-navigation@7.2.74",
+        "ui-material-bottom-navigation@7.2.75",
+        "ui-material-bottomsheet@7.2.72",
+        "ui-material-core-tabs@7.2.72",
+        "ui-material-core-tabs@7.2.73",
+        "ui-material-core-tabs@7.2.74",
+        "ui-material-core-tabs@7.2.75",
+        "ui-material-core-tabs@7.2.76",
+        "ui-material-core@7.2.72",
+        "ui-material-core@7.2.73",
+        "ui-material-core@7.2.74",
+        "ui-material-core@7.2.75",
+        "ui-material-core@7.2.76",
+        "ui-material-ripple@7.2.72",
+        "ui-material-ripple@7.2.73",
+        "ui-material-ripple@7.2.74",
+        "ui-material-ripple@7.2.75",
+        "ui-material-tabs@7.2.72",
+        "ui-material-tabs@7.2.73",
+        "ui-material-tabs@7.2.74",
+        "ui-material-tabs@7.2.75",
+        "ui-pager@14.1.35",
+        "ui-pager@14.1.36",
+        "ui-pager@14.1.37",
+        "ui-pager@14.1.38",
+        "ui-pulltorefresh@2.5.4",
+        "ui-pulltorefresh@2.5.5",
+        "ui-pulltorefresh@2.5.6",
+        "ui-pulltorefresh@2.5.7"
+      ]
+    },
+    {
+      "name": "@nativescript-community/arraybuffers",
+      "versions": [
+        "1.1.6",
+        "1.1.7",
+        "1.1.8"
+      ]
+    },
+    {
+      "name": "@nativescript-community/gesturehandler",
+      "versions": [
+        "2.0.35"
+      ]
+    },
+    {
+      "name": "@nativescript-community/perms",
+      "versions": [
+        "3.0.5",
+        "3.0.6",
+        "3.0.7",
+        "3.0.8",
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "@nativescript-community/sentry",
+      "versions": [
+        "4.6.43"
+      ]
+    },
+    {
+      "name": "@nativescript-community/sqlite",
+      "versions": [
+        "3.5.3",
+        "3.5.4",
+        "3.5.5"
+      ]
+    },
+    {
+      "name": "@nativescript-community/text",
+      "versions": [
+        "1.6.10",
+        "1.6.11",
+        "1.6.12",
+        "1.6.13",
+        "1.6.9"
+      ]
+    },
+    {
+      "name": "@nativescript-community/typeorm",
+      "versions": [
+        "0.2.30",
+        "0.2.31",
+        "0.2.32",
+        "0.2.33"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-collectionview",
+      "versions": [
+        "6.0.6"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-document-picker",
+      "versions": [
+        "1.1.27",
+        "1.1.28"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-drawer",
+      "versions": [
+        "0.1.30"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-image",
+      "versions": [
+        "4.5.6"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-label",
+      "versions": [
+        "1.3.35",
+        "1.3.36",
+        "1.3.37"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-material-bottom-navigation",
+      "versions": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-material-bottomsheet",
+      "versions": [
+        "7.2.72"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-material-core",
+      "versions": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-material-core-tabs",
+      "versions": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-material-ripple",
+      "versions": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-material-tabs",
+      "versions": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-pager",
+      "versions": [
+        "14.1.35",
+        "14.1.36",
+        "14.1.37",
+        "14.1.38"
+      ]
+    },
+    {
+      "name": "@nativescript-community/ui-pulltorefresh",
+      "versions": [
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "2.5.7"
+      ]
+    },
+    {
+      "name": "@nexe",
+      "versions": [
+        "0.1.1",
+        "0.1.2",
+        "0.1.3",
+        "0.1.6",
+        "0.2.1",
+        "2.0.6",
+        "2.0.8",
+        "20.0.4",
+        "20.0.6",
+        "5.0.1",
+        "5.0.3",
+        "angular@20.0.4",
+        "angular@20.0.5",
+        "angular@20.0.6",
+        "config-manager@0.1.1",
+        "eslint-config@0.1.1",
+        "focus@20.0.4",
+        "focus@20.0.5",
+        "focus@20.0.6",
+        "logger@0.1.3",
+        "nativescript-checkbox@2.0.6",
+        "nativescript-checkbox@2.0.7",
+        "nativescript-checkbox@2.0.8",
+        "nativescript-checkbox@2.0.9",
+        "nativescript-loading-indicator@5.0.1"
+      ]
+    },
+    {
+      "name": "@nexe/config-manager",
+      "versions": [
+        "0.1.1"
+      ]
+    },
+    {
+      "name": "@nexe/eslint-config",
+      "versions": [
+        "0.1.1"
+      ]
+    },
+    {
+      "name": "@nexe/logger",
+      "versions": [
+        "0.1.3"
+      ]
+    },
+    {
+      "name": "@nstudio",
+      "versions": [
+        "0.1.3",
+        "0.2.30",
+        "0.2.31",
+        "0.2.32",
+        "0.2.33",
+        "0.8.5",
+        "1.0.5",
+        "1.1.27",
+        "1.1.28",
+        "1.1.6",
+        "1.1.7",
+        "1.1.8",
+        "1.3.1",
+        "1.3.35",
+        "1.3.36",
+        "1.3.37",
+        "1.6.10",
+        "1.6.12",
+        "1.6.9",
+        "14.1.37",
+        "14.1.38",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9",
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "2.5.7",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7",
+        "3.0.5",
+        "3.0.6",
+        "3.0.7",
+        "3.5.2",
+        "3.5.3",
+        "3.5.4",
+        "3.5.5",
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "5.0.4",
+        "5.1.11",
+        "5.1.12",
+        "5.1.13",
+        "5.1.14",
+        "6.0.326",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "9.0.29",
+        "9.0.36",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.44",
+        "9.0.46",
+        "angular@20.0.4",
+        "angular@20.0.5",
+        "angular@20.0.6",
+        "board@9.0.35",
+        "board@9.0.36",
+        "board@9.0.37",
+        "board@9.0.38",
+        "board@9.0.39",
+        "board@9.0.40",
+        "board@9.0.41",
+        "board@9.0.42",
+        "board@9.0.43",
+        "board@9.0.44",
+        "board@9.0.45",
+        "focus@20.0.4",
+        "focus@20.0.5",
+        "focus@20.0.6",
+        "nativescript-checkbox@2.0.6",
+        "nativescript-checkbox@2.0.7",
+        "nativescript-checkbox@2.0.8",
+        "nativescript-checkbox@2.0.9",
+        "nativescript-loading-indicator@5.0.1",
+        "nativescript-loading-indicator@5.0.2",
+        "nativescript-loading-indicator@5.0.3",
+        "nativescript-loading-indicator@5.0.4",
+        "ui-collectionview@5.1.11",
+        "ui-collectionview@5.1.12",
+        "ui-collectionview@5.1.13",
+        "ui-collectionview@5.1.14",
+        "web-angular@20.0.4",
+        "web@20.0.4",
+        "xplat-utils@20.0.4",
+        "xplat-utils@20.0.5",
+        "xplat-utils@20.0.6",
+        "xplat-utils@20.0.7",
+        "xplat@20.0.4",
+        "xplat@20.0.5",
+        "xplat@20.0.6",
+        "xplat@20.0.7"
+      ]
+    },
+    {
+      "name": "@nstudio/angular",
+      "versions": [
+        "20.0.4",
+        "20.0.5",
+        "20.0.6"
+      ]
+    },
+    {
+      "name": "@nstudio/focus",
+      "versions": [
+        "20.0.4",
+        "20.0.5",
+        "20.0.6"
+      ]
+    },
+    {
+      "name": "@nstudio/nativescript-checkbox",
+      "versions": [
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "@nstudio/nativescript-loading-indicator",
+      "versions": [
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "5.0.4"
+      ]
+    },
+    {
+      "name": "@nstudio/ui-collectionview",
+      "versions": [
+        "5.1.11",
+        "5.1.12",
+        "5.1.13",
+        "5.1.14"
+      ]
+    },
+    {
+      "name": "@nstudio/web",
+      "versions": [
+        "20.0.4"
+      ]
+    },
+    {
+      "name": "@nstudio/web-angular",
+      "versions": [
+        "20.0.4"
+      ]
+    },
+    {
+      "name": "@nstudio/xplat",
+      "versions": [
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7"
+      ]
+    },
+    {
+      "name": "@nstudio/xplat-utils",
+      "versions": [
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7"
+      ]
+    },
+    {
+      "name": "@operato",
+      "versions": [
+        "0.0.3",
+        "0.0.5",
+        "0.3.14",
+        "0.3.16",
+        "0.4.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.8-0",
+        "1.1.4",
+        "9.0.2",
+        "9.0.22",
+        "9.0.27",
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.56",
+        "9.0.57",
+        "9.0.58",
+        "9.0.59",
+        "bio-parsers@0.4.29",
+        "bio-parsers@0.4.30",
+        "board@9.0.35",
+        "board@9.0.36",
+        "board@9.0.37",
+        "board@9.0.38",
+        "board@9.0.39",
+        "board@9.0.40",
+        "board@9.0.41",
+        "board@9.0.42",
+        "board@9.0.43",
+        "board@9.0.44",
+        "board@9.0.45",
+        "board@9.0.46",
+        "board@9.0.47",
+        "board@9.0.48",
+        "board@9.0.49",
+        "board@9.0.50",
+        "board@9.0.51",
+        "bounce-loader@0.3.16",
+        "bounce-loader@0.3.17",
+        "data-grist@9.0.29",
+        "data-grist@9.0.35",
+        "data-grist@9.0.36",
+        "data-grist@9.0.37",
+        "file-utils@0.3.21",
+        "file-utils@0.3.22",
+        "graphql@9.0.22",
+        "graphql@9.0.35",
+        "graphql@9.0.36",
+        "graphql@9.0.37",
+        "graphql@9.0.38",
+        "graphql@9.0.39",
+        "graphql@9.0.40",
+        "graphql@9.0.41",
+        "graphql@9.0.42",
+        "graphql@9.0.43",
+        "graphql@9.0.44",
+        "graphql@9.0.45",
+        "graphql@9.0.46",
+        "graphql@9.0.47",
+        "graphql@9.0.48",
+        "graphql@9.0.49",
+        "graphql@9.0.50",
+        "graphql@9.0.51",
+        "headroom@9.0.2",
+        "headroom@9.0.35",
+        "headroom@9.0.36",
+        "headroom@9.0.37",
+        "help@9.0.35",
+        "help@9.0.36",
+        "help@9.0.37",
+        "help@9.0.38",
+        "help@9.0.39",
+        "help@9.0.40",
+        "help@9.0.41",
+        "help@9.0.42",
+        "help@9.0.43",
+        "help@9.0.44",
+        "help@9.0.45",
+        "help@9.0.46",
+        "help@9.0.47",
+        "help@9.0.48",
+        "help@9.0.49",
+        "help@9.0.50",
+        "help@9.0.51",
+        "i18n@9.0.35",
+        "i18n@9.0.36",
+        "i18n@9.0.37",
+        "input@9.0.35",
+        "input@9.0.36",
+        "input@9.0.37",
+        "input@9.0.38",
+        "input@9.0.39",
+        "input@9.0.40",
+        "input@9.0.41",
+        "input@9.0.42",
+        "input@9.0.43",
+        "input@9.0.44",
+        "input@9.0.45",
+        "input@9.0.46",
+        "input@9.0.47",
+        "input@9.0.48",
+        "layout@9.0.35",
+        "layout@9.0.37",
+        "liquibase-tools@0.4.1",
+        "ove@0.7.39",
+        "ove@0.7.40",
+        "popup@9.0.35",
+        "popup@9.0.36",
+        "popup@9.0.37",
+        "popup@9.0.38",
+        "popup@9.0.39",
+        "popup@9.0.40",
+        "popup@9.0.41",
+        "popup@9.0.42",
+        "popup@9.0.43",
+        "popup@9.0.44",
+        "popup@9.0.45",
+        "popup@9.0.46",
+        "popup@9.0.47",
+        "popup@9.0.48",
+        "popup@9.0.49",
+        "popup@9.0.50",
+        "popup@9.0.51",
+        "pull-to-refresh@9.0.35",
+        "pull-to-refresh@9.0.36",
+        "pull-to-refresh@9.0.37",
+        "pull-to-refresh@9.0.38",
+        "pull-to-refresh@9.0.39",
+        "pull-to-refresh@9.0.40",
+        "pull-to-refresh@9.0.41",
+        "pull-to-refresh@9.0.42",
+        "pull-to-refresh@9.0.43",
+        "pull-to-refresh@9.0.44",
+        "pull-to-refresh@9.0.45",
+        "pull-to-refresh@9.0.46",
+        "pull-to-refresh@9.0.47",
+        "range-utils@0.3.14",
+        "range-utils@0.3.15",
+        "shell@9.0.22",
+        "shell@9.0.35",
+        "shell@9.0.36",
+        "shell@9.0.37",
+        "shell@9.0.38",
+        "shell@9.0.39",
+        "styles@9.0.2",
+        "styles@9.0.35",
+        "styles@9.0.36",
+        "styles@9.0.37",
+        "utils@9.0.22",
+        "utils@9.0.35",
+        "utils@9.0.36",
+        "utils@9.0.37",
+        "utils@9.0.38",
+        "utils@9.0.39",
+        "utils@9.0.40",
+        "utils@9.0.41",
+        "utils@9.0.42",
+        "utils@9.0.43",
+        "utils@9.0.44",
+        "utils@9.0.45",
+        "utils@9.0.46",
+        "utils@9.0.47",
+        "utils@9.0.48",
+        "utils@9.0.49",
+        "utils@9.0.50",
+        "utils@9.0.51"
+      ]
+    },
+    {
+      "name": "@operato/board",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "@operato/data-grist",
+      "versions": [
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "name": "@operato/graphql",
+      "versions": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "@operato/headroom",
+      "versions": [
+        "9.0.2",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "name": "@operato/help",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "@operato/i18n",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "name": "@operato/input",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48"
+      ]
+    },
+    {
+      "name": "@operato/layout",
+      "versions": [
+        "9.0.35",
+        "9.0.37"
+      ]
+    },
+    {
+      "name": "@operato/popup",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "@operato/pull-to-refresh",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47"
+      ]
+    },
+    {
+      "name": "@operato/shell",
+      "versions": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39"
+      ]
+    },
+    {
+      "name": "@operato/styles",
+      "versions": [
+        "9.0.2",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "name": "@operato/utils",
+      "versions": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "@teselagen",
+      "versions": [
+        "0.0.10",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.9",
+        "0.2.1",
+        "0.2.3",
+        "0.2.6",
+        "0.2.7",
+        "0.3.14",
+        "0.3.15",
+        "0.3.16",
+        "0.3.17",
+        "0.3.21",
+        "0.3.22",
+        "0.3.33",
+        "0.3.34",
+        "0.4.1",
+        "0.4.29",
+        "0.4.30",
+        "0.7.39",
+        "0.7.40",
+        "0.8.19",
+        "0.8.20",
+        "0.9.10",
+        "0.9.9",
+        "1.0.1",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.8",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.3.2",
+        "14.1.2",
+        "2.14.5",
+        "35.0.14",
+        "35.0.15",
+        "5.11.2",
+        "5.3.8",
+        "5.3.9",
+        "6.1.7",
+        "6.1.8",
+        "6.10.19",
+        "6.10.20",
+        "6.10.21",
+        "6.10.22",
+        "9.0.38",
+        "9.0.42",
+        "9.0.43",
+        "9.0.45",
+        "9.0.47",
+        "9.0.49",
+        "attachment-base@9.0.42",
+        "attachment-base@9.0.43",
+        "attachment-base@9.0.44",
+        "attachment-base@9.0.45",
+        "attachment-base@9.0.46",
+        "attachment-base@9.0.47",
+        "attachment-base@9.0.48",
+        "attachment-base@9.0.49",
+        "attachment-base@9.0.50",
+        "attachment-base@9.0.51",
+        "bio-parsers@0.4.29",
+        "bio-parsers@0.4.30",
+        "bounce-loader@0.3.16",
+        "bounce-loader@0.3.17",
+        "callback-window@1.1.4",
+        "file-utils@0.3.21",
+        "file-utils@0.3.22",
+        "liquibase-tools@0.4.1",
+        "ove@0.7.39",
+        "ove@0.7.40",
+        "range-utils@0.3.14",
+        "range-utils@0.3.15",
+        "react-list@0.8.19",
+        "react-list@0.8.20",
+        "react-table@6.10.19",
+        "react-table@6.10.20",
+        "react-table@6.10.21",
+        "react-table@6.10.22",
+        "sequence-utils@0.3.33",
+        "sequence-utils@0.3.34",
+        "ui@0.9.10",
+        "ui@0.9.9"
+      ]
+    },
+    {
+      "name": "@teselagen/bio-parsers",
+      "versions": [
+        "0.4.29",
+        "0.4.30"
+      ]
+    },
+    {
+      "name": "@teselagen/bounce-loader",
+      "versions": [
+        "0.3.16",
+        "0.3.17"
+      ]
+    },
+    {
+      "name": "@teselagen/file-utils",
+      "versions": [
+        "0.3.21",
+        "0.3.22"
+      ]
+    },
+    {
+      "name": "@teselagen/liquibase-tools",
+      "versions": [
+        "0.4.1"
+      ]
+    },
+    {
+      "name": "@teselagen/ove",
+      "versions": [
+        "0.7.39",
+        "0.7.40"
+      ]
+    },
+    {
+      "name": "@teselagen/range-utils",
+      "versions": [
+        "0.3.14",
+        "0.3.15"
+      ]
+    },
+    {
+      "name": "@teselagen/react-list",
+      "versions": [
+        "0.8.19",
+        "0.8.20"
+      ]
+    },
+    {
+      "name": "@teselagen/react-table",
+      "versions": [
+        "6.10.19",
+        "6.10.20",
+        "6.10.21",
+        "6.10.22"
+      ]
+    },
+    {
+      "name": "@teselagen/sequence-utils",
+      "versions": [
+        "0.3.33",
+        "0.3.34"
+      ]
+    },
+    {
+      "name": "@teselagen/ui",
+      "versions": [
+        "0.9.10",
+        "0.9.9"
+      ]
+    },
+    {
+      "name": "@thangved",
+      "versions": [
+        "0.0.14",
+        "1.0.2",
+        "1.0.3",
+        "1.0.8",
+        "1.1.4",
+        "1.1.4-0",
+        "1.1.5",
+        "1.1.5-0",
+        "1.6.1",
+        "1.7.4",
+        "21.2.8",
+        "24.1.7",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.52",
+        "9.0.54",
+        "attachment-base@9.0.42",
+        "attachment-base@9.0.43",
+        "attachment-base@9.0.44",
+        "attachment-base@9.0.45",
+        "attachment-base@9.0.46",
+        "attachment-base@9.0.47",
+        "attachment-base@9.0.48",
+        "attachment-base@9.0.49",
+        "attachment-base@9.0.50",
+        "attachment-base@9.0.51",
+        "attachment-base@9.0.52",
+        "callback-window@1.1.4"
+      ]
+    },
+    {
+      "name": "@thangved/callback-window",
+      "versions": [
+        "1.1.4"
+      ]
+    },
+    {
+      "name": "@things-factory",
+      "versions": [
+        "0.0.3",
+        "0.0.5",
+        "0.4.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.8",
+        "1.0.8-0",
+        "11.0.2",
+        "13.0.1",
+        "24.1.7",
+        "3.0.8",
+        "6.0.1",
+        "9.0.2",
+        "9.0.22",
+        "9.0.27",
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.56",
+        "9.0.57",
+        "9.0.58",
+        "9.0.59",
+        "ace-colorpicker-rpk@0.0.14",
+        "airpilot@0.8.8",
+        "api@1.0.8",
+        "attachment-base@9.0.42",
+        "attachment-base@9.0.43",
+        "attachment-base@9.0.44",
+        "attachment-base@9.0.45",
+        "attachment-base@9.0.46",
+        "attachment-base@9.0.47",
+        "attachment-base@9.0.48",
+        "attachment-base@9.0.49",
+        "attachment-base@9.0.50",
+        "attachment-base@9.0.51",
+        "attachment-base@9.0.52",
+        "attachment-base@9.0.53",
+        "attachment-base@9.0.54",
+        "attachment-base@9.0.55",
+        "auth-base@9.0.42",
+        "auth-base@9.0.43",
+        "auth-base@9.0.44",
+        "auth-base@9.0.45",
+        "core@1.0.8",
+        "design-system@6.5.17",
+        "devextreme-angular-rpk@24.1.7",
+        "devextreme-rpk@24.1.7",
+        "email-base@9.0.42",
+        "email-base@9.0.43",
+        "email-base@9.0.44",
+        "email-base@9.0.45",
+        "email-base@9.0.46",
+        "email-base@9.0.47",
+        "email-base@9.0.48",
+        "email-base@9.0.49",
+        "email-base@9.0.50",
+        "email-base@9.0.51",
+        "email-base@9.0.52",
+        "email-base@9.0.53",
+        "email-base@9.0.54",
+        "email-base@9.0.55",
+        "email-base@9.0.56",
+        "email-base@9.0.57",
+        "email-base@9.0.58",
+        "email-base@9.0.59",
+        "env@9.0.42",
+        "env@9.0.43",
+        "env@9.0.44",
+        "env@9.0.45",
+        "integration-base@9.0.42",
+        "integration-base@9.0.43",
+        "integration-base@9.0.44",
+        "integration-base@9.0.45",
+        "integration-marketplace@9.0.42",
+        "integration-marketplace@9.0.43",
+        "integration-marketplace@9.0.44",
+        "integration-marketplace@9.0.45",
+        "jpeg-camera-es6@1.0.13",
+        "js@1.0.8",
+        "mui@1.0.8",
+        "react@1.0.8",
+        "shell@9.0.42",
+        "shell@9.0.43",
+        "shell@9.0.44",
+        "shell@9.0.45",
+        "yobi@8.7.53"
+      ]
+    },
+    {
+      "name": "@things-factory/attachment-base",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55"
+      ]
+    },
+    {
+      "name": "@things-factory/auth-base",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "@things-factory/email-base",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.56",
+        "9.0.57",
+        "9.0.58",
+        "9.0.59"
+      ]
+    },
+    {
+      "name": "@things-factory/env",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "@things-factory/integration-base",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "@things-factory/integration-marketplace",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "@things-factory/shell",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "@tnf-dev",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.3.1",
+        "0.3.22",
+        "0.4.30",
+        "0.8.8",
+        "1.0.10",
+        "1.0.10-0",
+        "1.0.13",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.0.8",
+        "1.0.8-0",
+        "1.0.9-0",
+        "1.1.3",
+        "14.1.1",
+        "24.1.7",
+        "3.0.8",
+        "35.0.15",
+        "6.10.20",
+        "6.5.17",
+        "8.7.53",
+        "ace-colorpicker-rpk@0.0.14",
+        "airpilot@0.8.8",
+        "browser-webdriver-downloader@3.0.8",
+        "capacitor-notificationhandler@0.0.3",
+        "capacitor-plugin-healthapp@0.0.3",
+        "capacitor-plugin-ihealth@1.1.9",
+        "capacitor-plugin-vonage@1.0.3",
+        "core@1.0.8",
+        "design-system@6.5.17",
+        "devextreme-angular-rpk@24.1.7",
+        "devextreme-rpk@24.1.7",
+        "jpeg-camera-es6@1.0.13",
+        "js@1.0.8",
+        "mui@1.0.8",
+        "react@1.0.8",
+        "yobi@8.7.53"
+      ]
+    },
+    {
+      "name": "@tnf-dev/api",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "@tnf-dev/core",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "@tnf-dev/js",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "@tnf-dev/mui",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "@tnf-dev/react",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "@ui-ux-gang",
+      "versions": [
+        "0.0.2",
+        "0.3.1",
+        "0.4.4",
+        "0.4.7",
+        "0.8.8",
+        "1.0.13",
+        "1.0.3",
+        "1.1.1",
+        "1.6.5",
+        "14.1.1",
+        "21.2.8",
+        "24.1.7",
+        "3.0.8",
+        "6.5.17",
+        "8.7.53",
+        "ace-colorpicker-rpk@0.0.14",
+        "airpilot@0.8.8",
+        "browser-webdriver-downloader@3.0.8",
+        "capacitor-notificationhandler@0.0.3",
+        "capacitor-plugin-healthapp@0.0.3",
+        "capacitor-plugin-ihealth@1.1.9",
+        "capacitor-plugin-vonage@1.0.3",
+        "capacitorandroidpermissions@0.0.5",
+        "cordova-plugin-voxeet2@1.0.24",
+        "design-system@6.5.17",
+        "devextreme-rpk@24.1.7",
+        "jpeg-camera-es6@1.0.13",
+        "yobi@8.7.53"
+      ]
+    },
+    {
+      "name": "@ui-ux-gang/devextreme-angular-rpk",
+      "versions": [
+        "24.1.7"
+      ]
+    },
+    {
+      "name": "@ui-ux-gang/devextreme-rpk",
+      "versions": [
+        "24.1.7"
+      ]
+    },
+    {
+      "name": "@yoobic",
+      "versions": [
+        "0.0.2",
+        "0.0.35",
+        "0.0.4",
+        "0.0.5",
+        "0.2.4",
+        "0.3.1",
+        "0.3.21",
+        "0.8.8",
+        "1.0.13",
+        "1.0.2",
+        "1.0.5",
+        "1.1.8",
+        "14.1.1",
+        "3.0.8",
+        "6.5.17",
+        "8.7.53",
+        "ace-colorpicker-rpk@0.0.14",
+        "airpilot@0.8.8",
+        "browser-webdriver-downloader@3.0.8",
+        "capacitor-notificationhandler@0.0.3",
+        "capacitor-plugin-healthapp@0.0.3",
+        "capacitor-plugin-ihealth@1.1.9",
+        "capacitor-plugin-vonage@1.0.3",
+        "capacitorandroidpermissions@0.0.5",
+        "cordova-plugin-voxeet2@1.0.24",
+        "create-hest-app@0.1.9",
+        "db-evo@1.1.5",
+        "devextreme-angular-rpk@21.2.8",
+        "jpeg-camera-es6@1.0.13",
+        "yobi@8.7.53"
+      ]
+    },
+    {
+      "name": "@yoobic/design-system",
+      "versions": [
+        "6.5.17"
+      ]
+    },
+    {
+      "name": "@yoobic/jpeg-camera-es6",
+      "versions": [
+        "1.0.13"
+      ]
+    },
+    {
+      "name": "@yoobic/yobi",
+      "versions": [
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "a",
+      "versions": [
+        "\"1.0.0\"",
+        "0.0.3",
+        "0.2.1",
+        "4.1.1",
+        "4.1.2.",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "account",
+      "versions": [
+        "2.0.28",
+        "2.0.4",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "ace-colorpicker-rpk",
+      "versions": [
+        "0.0.14",
+        "0.4.4",
+        "1.0.3",
+        "21.2.8",
+        "24.1.7"
+      ]
+    },
+    {
+      "name": "actor.",
+      "versions": [
+        "angulartics2@14.1.2"
+      ]
+    },
+    {
+      "name": "actual",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "additional",
+      "versions": [
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "again",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "airchief",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.1.5",
+        "0.3.1",
+        "0.8.5",
+        "0.8.8",
+        "1.0.2",
+        "1.0.24",
+        "1.1.2",
+        "1.1.8",
+        "14.1.1",
+        "3.0.8",
+        "6.10.19"
+      ]
+    },
+    {
+      "name": "airpilot",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.1.5",
+        "0.3.1",
+        "0.8.5",
+        "0.8.8",
+        "1.0.2",
+        "1.0.24",
+        "1.0.32",
+        "1.1.8",
+        "1.2.1",
+        "14.1.1",
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "all",
+      "versions": [
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "and",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "2.0.24",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4",
+        "4.1.2.",
+        "angulartics2@14.1.2",
+        "deluge@7.2.2"
+      ]
+    },
+    {
+      "name": "angular",
+      "versions": [
+        "0.2.30",
+        "0.2.31",
+        "0.2.32",
+        "1.0.5",
+        "1.1.27",
+        "1.1.8",
+        "2.0.6",
+        "2.0.8",
+        "2.0.9",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "3.5.2",
+        "3.5.4",
+        "5.0.1",
+        "5.0.3",
+        "5.1.11"
+      ]
+    },
+    {
+      "name": "angulartics2",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.2.1",
+        "0.2.3",
+        "0.8.5",
+        "1.0.2",
+        "1.0.24",
+        "1.1.8",
+        "10.0.1",
+        "10.0.2",
+        "14.1.1",
+        "14.1.2",
+        "19.0.2",
+        "2.0.1",
+        "3.0.8",
+        "4.0.1",
+        "4.1.1",
+        "4.1.2",
+        "5.11.2",
+        "5.3.8",
+        "6.0.2",
+        "6.1.7",
+        "7.0.3",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "api",
+      "versions": [
+        "0.3.22",
+        "1.0.10",
+        "1.0.10-0",
+        "1.0.13",
+        "1.0.2",
+        "1.0.3",
+        "1.0.8",
+        "1.0.8-0",
+        "1.0.9-0",
+        "24.1.7",
+        "6.5.17"
+      ]
+    },
+    {
+      "name": "Appendix",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "6.0.2",
+        "7.0.2",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "application.",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "are",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4"
+      ]
+    },
+    {
+      "name": "arraybuffers",
+      "versions": [
+        "0.2.30",
+        "0.2.32",
+        "1.1.6",
+        "1.1.7",
+        "1.1.8",
+        "1.3.36",
+        "1.3.37",
+        "1.6.10",
+        "1.6.11",
+        "1.6.9",
+        "14.1.36",
+        "2.0.35",
+        "2.5.6",
+        "3.0.5",
+        "3.0.7",
+        "3.0.9",
+        "3.5.2",
+        "3.5.3",
+        "3.5.4",
+        "5.0.1",
+        "7.2.72",
+        "7.2.73"
+      ]
+    },
+    {
+      "name": "as",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "attachment-base",
+      "versions": [
+        "9.0.29",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55"
+      ]
+    },
+    {
+      "name": "attacked.",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "Attackers",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "attribution",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2"
+      ]
+    },
+    {
+      "name": "auth-base",
+      "versions": [
+        "0.4.1",
+        "1.0.8-0",
+        "11.0.2",
+        "13.0.1",
+        "3.0.8",
+        "6.0.1",
+        "9.0.2",
+        "9.0.22",
+        "9.0.35",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.48",
+        "9.0.50",
+        "9.0.52",
+        "9.0.54",
+        "9.0.56",
+        "9.0.58"
+      ]
+    },
+    {
+      "name": "AWS",
+      "versions": [
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "basic-ui-components",
+      "versions": [
+        "1.0.5",
+        "2.0.7",
+        "20.0.4",
+        "3.5.2",
+        "7.2.73"
+      ]
+    },
+    {
+      "name": "bb8ca5f6-4175-45d2-b042-fc9ebb8170b7",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "6.0.2",
+        "7.0.2",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "been",
+      "versions": [
+        "airpilot@0.8.8",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "between",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "bio-parsers",
+      "versions": [
+        "0.3.14",
+        "0.3.16",
+        "0.3.21",
+        "0.3.33",
+        "0.4.1",
+        "0.4.29",
+        "0.7.39",
+        "0.8.19",
+        "0.8.20",
+        "0.9.10",
+        "0.9.9",
+        "1.0.2",
+        "1.1.5",
+        "35.0.14",
+        "35.0.15",
+        "6.1.7",
+        "6.10.21"
+      ]
+    },
+    {
+      "name": "board",
+      "versions": [
+        "0.0.3",
+        "0.0.5",
+        "1.0.3",
+        "9.0.22",
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.55",
+        "9.0.57",
+        "9.0.59"
+      ]
+    },
+    {
+      "name": "bounce-loader",
+      "versions": [
+        "0.0.10",
+        "0.0.9",
+        "0.2.6",
+        "0.3.14",
+        "0.3.16",
+        "0.3.17",
+        "0.3.21",
+        "0.4.1",
+        "0.7.39",
+        "0.8.19",
+        "1.0.1",
+        "1.0.10",
+        "1.1.4",
+        "6.10.19",
+        "6.10.21",
+        "6.10.22",
+        "9.0.38",
+        "9.0.43"
+      ]
+    },
+    {
+      "name": "browser-webdriver-downloader",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.1.9",
+        "0.8.5",
+        "1.0.12",
+        "1.0.2",
+        "1.0.24",
+        "1.0.32",
+        "1.1.8",
+        "11.0.2",
+        "13.0.1",
+        "2.2.1",
+        "3.0.8",
+        "4.0.1"
+      ]
+    },
+    {
+      "name": "but",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2"
+      ]
+    },
+    {
+      "name": "callback-window",
+      "versions": [
+        "0.0.14",
+        "1.0.2",
+        "1.0.3",
+        "1.0.8",
+        "1.1.4",
+        "1.1.5",
+        "1.1.5-0",
+        "1.6.1",
+        "1.7.4",
+        "21.2.8",
+        "24.1.7",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.52",
+        "9.0.54"
+      ]
+    },
+    {
+      "name": "came",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "campaign.",
+      "versions": [
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "can",
+      "versions": [
+        "20.0.20"
+      ]
+    },
+    {
+      "name": "capacitor-notificationhandler",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.1.9",
+        "0.8.5",
+        "1.0.2",
+        "1.0.24",
+        "1.0.3",
+        "1.0.32",
+        "1.1.4",
+        "1.1.8",
+        "1.1.9",
+        "9.0.43",
+        "9.0.47",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "capacitor-plugin-healthapp",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.1.9",
+        "0.8.5",
+        "1.0.2",
+        "1.0.24",
+        "1.0.3",
+        "1.0.32",
+        "1.1.4",
+        "1.1.8",
+        "1.1.9",
+        "2.0.22",
+        "2.0.4",
+        "21.2.8",
+        "9.0.43",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "capacitor-plugin-ihealth",
+      "versions": [
+        "0.0.4",
+        "0.1.9",
+        "0.8.5",
+        "1.0.2",
+        "1.0.24",
+        "1.0.32",
+        "1.1.4",
+        "1.1.5",
+        "1.1.8",
+        "1.1.9",
+        "2.0.15",
+        "2.0.22",
+        "2.0.4",
+        "21.2.8",
+        "5.0.2",
+        "9.0.43",
+        "9.0.47",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "capacitor-plugin-vonage",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.1.9",
+        "0.8.5",
+        "1.0.1",
+        "1.0.2",
+        "1.0.24",
+        "1.0.3",
+        "1.0.32",
+        "1.1.2",
+        "1.1.4",
+        "1.1.8",
+        "1.1.9",
+        "2.0.22",
+        "21.2.8",
+        "5.0.2"
+      ]
+    },
+    {
+      "name": "capacitorandroidpermissions",
+      "versions": [
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.1.9",
+        "0.8.5",
+        "1.0.1",
+        "1.0.2",
+        "1.0.24",
+        "1.0.3",
+        "1.0.32",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "1.1.8",
+        "1.1.9",
+        "2.0.22",
+        "2.0.4",
+        "21.2.8",
+        "5.0.2",
+        "9.0.43"
+      ]
+    },
+    {
+      "name": "Chain",
+      "versions": [
+        "4.1.1"
+      ]
+    },
+    {
+      "name": "change",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "code",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "color",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "commitlint",
+      "versions": [
+        "0.19.1",
+        "0.34.2",
+        "0.34.3",
+        "0.4.1",
+        "0.4.2",
+        "1.0.1",
+        "1.205.1",
+        "1.205.2",
+        "5.0.3",
+        "8.1.1",
+        "8.1.2"
+      ]
+    },
+    {
+      "name": "common",
+      "versions": [
+        "1.0.10",
+        "1.0.4",
+        "1.0.5",
+        "1.1.5",
+        "1.1.6",
+        "2.0.13",
+        "2.0.15",
+        "2.0.18",
+        "2.0.21",
+        "2.0.22",
+        "2.0.23",
+        "2.0.24",
+        "2.0.26",
+        "2.0.27",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7"
+      ]
+    },
+    {
+      "name": "compromised",
+      "versions": [
+        "0.0.3",
+        "2.0.28",
+        "20.0.20",
+        "4.0.4",
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.2",
+        "qbittorrent@9.7.2",
+        "react-adsense@2.0.2",
+        "shared-torrent@6.3.2",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "Compromised",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2"
+      ]
+    },
+    {
+      "name": "config-cordova",
+      "versions": [
+        "0.1.9",
+        "0.8.5",
+        "1.0.1",
+        "1.0.13",
+        "1.0.24",
+        "1.0.32",
+        "1.0.5",
+        "1.1.2",
+        "1.1.4",
+        "2.1.5",
+        "21.2.8",
+        "5.0.2",
+        "6.5.17"
+      ]
+    },
+    {
+      "name": "config-eslint",
+      "versions": [
+        "0.0.10",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.1.5",
+        "2.0.13",
+        "2.0.15",
+        "2.0.21",
+        "2.0.24",
+        "2.0.28",
+        "2.0.4",
+        "2.0.5",
+        "2.0.7",
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "config-manager",
+      "versions": [
+        "0.1.1",
+        "0.1.3",
+        "0.1.6",
+        "0.2.1",
+        "2.0.6",
+        "2.0.8",
+        "20.0.4",
+        "20.0.6"
+      ]
+    },
+    {
+      "name": "config-ts",
+      "versions": [
+        "0.0.10",
+        "0.1.9",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.9",
+        "14.1.35",
+        "2.0.13",
+        "2.0.21",
+        "2.0.24",
+        "2.0.28",
+        "2.0.7",
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "contained",
+      "versions": [
+        "airpilot@0.8.8",
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.2",
+        "qbittorrent@9.7.2",
+        "react-adsense@2.0.2"
+      ]
+    },
+    {
+      "name": "contains",
+      "versions": [
+        "0.0.3",
+        "0.2.1"
+      ]
+    },
+    {
+      "name": "cordova-plugin-voxeet2",
+      "versions": [
+        "0.0.5",
+        "0.1.9",
+        "1.0.1",
+        "1.0.12",
+        "1.0.13",
+        "1.0.24",
+        "1.0.32",
+        "1.0.5",
+        "1.1.2",
+        "1.1.4",
+        "2.1.5",
+        "21.2.8",
+        "5.0.2",
+        "6.5.17"
+      ]
+    },
+    {
+      "name": "cordova-voxeet",
+      "versions": [
+        "0.0.35",
+        "0.0.5",
+        "0.1.9",
+        "1.0.1",
+        "1.0.12",
+        "1.0.13",
+        "1.0.32",
+        "1.0.5",
+        "1.1.2",
+        "1.1.4",
+        "2.1.5",
+        "2.2.1",
+        "21.2.8",
+        "5.0.2",
+        "6.5.17"
+      ]
+    },
+    {
+      "name": "core",
+      "versions": [
+        "0.0.3",
+        "0.1.2",
+        "0.1.6",
+        "0.1.7",
+        "0.1.9",
+        "0.2.1",
+        "0.3.1",
+        "1.0.10",
+        "1.0.10-0",
+        "1.0.13",
+        "1.0.3",
+        "1.0.5",
+        "1.0.8",
+        "1.0.8-0",
+        "1.0.9",
+        "1.0.9-0",
+        "1.1.3",
+        "1.1.6",
+        "1.1.8",
+        "1.3.1",
+        "24.1.7",
+        "6.10.20",
+        "6.5.17",
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "cqrs",
+      "versions": [
+        "0.1.2",
+        "0.1.6",
+        "0.1.7",
+        "0.1.9",
+        "1.0.9",
+        "1.1.6",
+        "1.1.8",
+        "1.3.1",
+        "2.0.35",
+        "3.0.5",
+        "5.3.8"
+      ]
+    },
+    {
+      "name": "create-hest-app",
+      "versions": [
+        "0.1.9",
+        "0.8.19",
+        "1.0.1",
+        "1.0.12",
+        "1.0.9",
+        "1.1.2",
+        "1.1.4",
+        "1.3.1",
+        "2.1.5",
+        "2.14.4",
+        "2.2.1",
+        "21.2.8",
+        "5.0.2",
+        "5.3.8"
+      ]
+    },
+    {
+      "name": "Credential",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "dangerous.",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "Daniel",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "data",
+      "versions": [
+        "2.0.28",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "data-grist",
+      "versions": [
+        "1.0.2",
+        "9.0.2",
+        "9.0.22",
+        "9.0.27",
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46"
+      ]
+    },
+    {
+      "name": "db-context",
+      "versions": [
+        "0.0.9",
+        "0.1.11",
+        "0.1.12",
+        "0.1.9",
+        "1.0.10",
+        "1.0.3",
+        "1.0.5",
+        "1.0.9",
+        "1.1.5",
+        "1.1.6",
+        "2.0.13",
+        "2.0.21",
+        "2.0.22",
+        "2.0.23",
+        "2.0.24",
+        "2.0.25",
+        "2.0.27",
+        "2.0.28"
+      ]
+    },
+    {
+      "name": "db-evo",
+      "versions": [
+        "0.0.2",
+        "1.0.1",
+        "1.0.10",
+        "1.0.12",
+        "1.0.2",
+        "1.0.5",
+        "1.0.6",
+        "1.1.2",
+        "1.1.4",
+        "1.1.4-0",
+        "1.1.5",
+        "1.1.5-0",
+        "1.6.1",
+        "1.7.4",
+        "2.0.5",
+        "2.1.5",
+        "2.2.1",
+        "21.2.8",
+        "4.0.3",
+        "5.0.2"
+      ]
+    },
+    {
+      "name": "deluge",
+      "versions": [
+        "1.4.2",
+        "1.4.3",
+        "1.9.2",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "4.1.2",
+        "5.11.1",
+        "6.0.1",
+        "6.0.2",
+        "6.3.1",
+        "7.0.1",
+        "7.0.2",
+        "7.2.1",
+        "7.2.2",
+        "8.0.1",
+        "9.2.1",
+        "9.2.2"
+      ]
+    },
+    {
+      "name": "demo",
+      "versions": [
+        "0.1.1",
+        "0.1.2",
+        "0.1.3",
+        "0.1.6",
+        "0.1.7",
+        "1.1.6",
+        "1.1.8",
+        "2.0.35",
+        "3.0.5",
+        "3.0.7"
+      ]
+    },
+    {
+      "name": "design",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3"
+      ]
+    },
+    {
+      "name": "design-system",
+      "versions": [
+        "0.0.2",
+        "0.0.35",
+        "0.0.5",
+        "0.2.4",
+        "0.3.1",
+        "0.3.21",
+        "0.8.8",
+        "1.0.13",
+        "1.0.2",
+        "1.0.5",
+        "1.1.8",
+        "14.1.1",
+        "3.0.8",
+        "6.5.17",
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "detected",
+      "versions": [
+        "common@2.0.22",
+        "common@2.0.28",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "devextreme-angular-rpk",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.3.1",
+        "0.4.4",
+        "0.4.7",
+        "0.8.8",
+        "1.0.1",
+        "1.0.12",
+        "1.0.13",
+        "1.0.3",
+        "1.1.2",
+        "1.1.8",
+        "1.6.5",
+        "11.0.2",
+        "14.1.1",
+        "2.1.5",
+        "2.2.1",
+        "21.2.8",
+        "24.1.7",
+        "3.0.8",
+        "4.0.3",
+        "5.0.2",
+        "6.5.17",
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "devextreme-rpk",
+      "versions": [
+        "0.4.4",
+        "0.4.7",
+        "1.0.3",
+        "1.0.5",
+        "1.1.1",
+        "1.6.5",
+        "21.2.8",
+        "24.1.7"
+      ]
+    },
+    {
+      "name": "di",
+      "versions": [
+        "0.1.12",
+        "0.1.9",
+        "1.0.5",
+        "1.1.5",
+        "1.1.6",
+        "2.0.13",
+        "2.0.21",
+        "2.0.22",
+        "2.0.24",
+        "2.0.28",
+        "2.0.32",
+        "2.0.7"
+      ]
+    },
+    {
+      "name": "di-node",
+      "versions": [
+        "0.1.11",
+        "0.1.12",
+        "0.1.9",
+        "1.0.3",
+        "1.0.5",
+        "2.0.13",
+        "2.0.14",
+        "2.0.15",
+        "2.0.18",
+        "2.0.21",
+        "2.0.23",
+        "2.0.24",
+        "2.0.26",
+        "2.0.27",
+        "2.0.28",
+        "2.0.7"
+      ]
+    },
+    {
+      "name": "different",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "disabled",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "does",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "earliest",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "email-base",
+      "versions": [
+        "0.0.3",
+        "0.0.5",
+        "1.0.3",
+        "1.0.8-0",
+        "9.0.2",
+        "9.0.22",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.56",
+        "9.0.57",
+        "9.0.58",
+        "9.0.59"
+      ]
+    },
+    {
+      "name": "ember-browser-services",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.34.2",
+        "1.0.1",
+        "1.0.12",
+        "1.1.2",
+        "1.205.1",
+        "1.205.2",
+        "1.7.4",
+        "11.0.2",
+        "2.1.5",
+        "2.2.1",
+        "4.0.3",
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "9.0.36",
+        "9.0.44"
+      ]
+    },
+    {
+      "name": "ember-headless-form",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.19.1",
+        "0.19.2",
+        "1.0.1",
+        "1.0.12",
+        "1.0.13",
+        "1.0.2",
+        "1.1.2",
+        "1.1.3",
+        "1.205.1",
+        "1.7.4",
+        "11.0.2",
+        "13.0.2",
+        "2.1.5",
+        "2.2.1",
+        "2.2.2",
+        "4.0.2",
+        "4.0.3",
+        "8.1.1"
+      ]
+    },
+    {
+      "name": "ember-headless-form-yup",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.4.2",
+        "1.0.1",
+        "1.0.12",
+        "1.0.13",
+        "1.0.2",
+        "1.1.2",
+        "1.1.3",
+        "1.7.4",
+        "11.0.2",
+        "2.1.5",
+        "2.1.6",
+        "2.2.1",
+        "4.0.3",
+        "5.0.3",
+        "6.1.7"
+      ]
+    },
+    {
+      "name": "ember-headless-table",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.19.1",
+        "0.19.2",
+        "1.0.12",
+        "1.0.13",
+        "1.0.2",
+        "1.1.2",
+        "1.1.3",
+        "1.205.1",
+        "1.3.1",
+        "1.7.4",
+        "11.0.2",
+        "2.1.5",
+        "2.1.6",
+        "2.2.1",
+        "2.2.2",
+        "4.0.2",
+        "4.0.3",
+        "5.0.1",
+        "6.1.7"
+      ]
+    },
+    {
+      "name": "ember-url-hash-polyfill",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.19.2",
+        "0.34.2",
+        "1.0.12",
+        "1.0.13",
+        "1.0.2",
+        "1.2.1",
+        "1.3.1",
+        "1.7.4",
+        "11.0.2",
+        "13.0.2",
+        "2.2.1",
+        "2.2.2",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "5.0.2",
+        "5.3.8",
+        "6.1.7"
+      ]
+    },
+    {
+      "name": "ember-velcro",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.19.2",
+        "0.2.1",
+        "0.34.2",
+        "1.0.2",
+        "1.0.3",
+        "1.2.1",
+        "1.3.1",
+        "1.7.4",
+        "11.0.2",
+        "11.0.3",
+        "13.0.1",
+        "13.0.2",
+        "2.1.5",
+        "2.2.1",
+        "2.2.2",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "5.0.2",
+        "5.3.8",
+        "6.1.7"
+      ]
+    },
+    {
+      "name": "encounter-playground",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.32",
+        "0.0.33",
+        "0.0.34",
+        "0.0.35",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.2.1",
+        "0.2.2",
+        "0.2.3",
+        "0.2.4",
+        "0.3.19",
+        "0.3.21",
+        "0.8.8",
+        "1.0.1",
+        "1.0.2",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.7.4",
+        "11.0.2",
+        "4.0.3",
+        "5.11.2",
+        "5.3.8",
+        "6.1.7",
+        "7.0.3",
+        "8.0.2",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "env",
+      "versions": [
+        "0.4.1",
+        "1.0.8",
+        "9.0.2",
+        "9.0.22",
+        "9.0.36",
+        "9.0.37",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "eslint",
+      "versions": [
+        "0.1.12",
+        "0.1.9",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.1.4",
+        "1.1.4-0",
+        "2.0.21",
+        "2.0.24",
+        "2.0.5",
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "eslint-config",
+      "versions": [
+        "0.1.1",
+        "0.1.2",
+        "0.1.3",
+        "0.1.6",
+        "0.1.7",
+        "1.1.6",
+        "1.1.8",
+        "2.0.35",
+        "2.0.6",
+        "2.0.8",
+        "20.0.4",
+        "20.0.6",
+        "3.0.5",
+        "3.0.7",
+        "3.0.9",
+        "5.0.1"
+      ]
+    },
+    {
+      "name": "eslint-config-crowdstrike",
+      "versions": [
+        "0.0.2",
+        "0.2.1",
+        "0.2.3",
+        "0.34.3",
+        "0.4.4",
+        "0.4.7",
+        "1.0.12",
+        "1.0.2",
+        "1.0.3",
+        "1.2.1",
+        "1.205.2",
+        "1.3.1",
+        "1.7.4",
+        "11.0.2",
+        "11.0.3",
+        "13.0.1",
+        "2.2.1",
+        "4.0.1",
+        "4.0.3",
+        "5.0.2",
+        "5.11.1",
+        "5.3.8",
+        "6.1.7",
+        "8.1.2"
+      ]
+    },
+    {
+      "name": "eslint-config-crowdstrike-node",
+      "versions": [
+        "0.0.2",
+        "0.2.1",
+        "0.2.3",
+        "0.34.2",
+        "0.34.3",
+        "0.4.4",
+        "1.0.2",
+        "1.0.3",
+        "1.2.1",
+        "1.205.1",
+        "1.3.1",
+        "1.7.4",
+        "11.0.2",
+        "11.0.3",
+        "13.0.1",
+        "2.1.5",
+        "4.0.3",
+        "4.0.4",
+        "5.0.1",
+        "5.0.2",
+        "5.11.1",
+        "5.3.8",
+        "6.1.7",
+        "8.1.2"
+      ]
+    },
+    {
+      "name": "eslint-config-teselagen",
+      "versions": [
+        "0.0.2",
+        "0.2.1",
+        "0.2.3",
+        "0.3.15",
+        "0.3.17",
+        "0.3.33",
+        "0.3.34",
+        "0.9.9",
+        "1.0.2",
+        "1.2.1",
+        "1.3.1",
+        "1.7.4",
+        "18.1.4",
+        "20.0.4",
+        "35.0.14",
+        "5.11.1",
+        "5.11.2",
+        "5.3.8",
+        "5.3.9",
+        "6.1.7",
+        "6.1.8",
+        "6.10.21",
+        "7.0.3",
+        "8.0.2",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "falcon-shoelace",
+      "versions": [
+        "0.19.1",
+        "0.34.2",
+        "0.4.1",
+        "0.4.2",
+        "1.0.12",
+        "1.0.13",
+        "1.1.3",
+        "1.205.1",
+        "11.0.2",
+        "13.0.1",
+        "2.1.6",
+        "2.2.2",
+        "3.0.8",
+        "4.0.2",
+        "6.0.1"
+      ]
+    },
+    {
+      "name": "fastify-http-server",
+      "versions": [
+        "0.1.11",
+        "0.1.12",
+        "0.1.9",
+        "1.0.1",
+        "1.0.5",
+        "1.1.4",
+        "2.0.15",
+        "2.0.21",
+        "2.0.23",
+        "2.0.24",
+        "2.0.25",
+        "2.0.26",
+        "2.0.27",
+        "2.0.28",
+        "2.0.32"
+      ]
+    },
+    {
+      "name": "file",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "file-utils",
+      "versions": [
+        "0.0.9",
+        "0.2.6",
+        "0.3.14",
+        "0.3.21",
+        "0.3.22",
+        "0.4.1",
+        "0.4.29",
+        "0.4.30",
+        "0.7.39",
+        "0.8.19",
+        "0.8.20",
+        "0.9.10",
+        "1.0.2",
+        "35.0.15",
+        "6.1.7",
+        "6.10.20",
+        "6.10.21"
+      ]
+    },
+    {
+      "name": "first",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "focus",
+      "versions": [
+        "1.1.8",
+        "1.3.37",
+        "1.6.12",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.5.7",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "3.5.2",
+        "3.5.3",
+        "5.0.1",
+        "5.0.3",
+        "5.1.11",
+        "5.1.13",
+        "7.2.73",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "following",
+      "versions": [
+        "0.0.3"
+      ]
+    },
+    {
+      "name": "found",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "foundry-js",
+      "versions": [
+        "0.19.1",
+        "0.34.2",
+        "1.205.1",
+        "11.0.3",
+        "13.0.2",
+        "4.0.4",
+        "5.0.2",
+        "8.1.1",
+        "8.1.2"
+      ]
+    },
+    {
+      "name": "from",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "function",
+      "versions": [
+        "20.0.20"
+      ]
+    },
+    {
+      "name": "functionality",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "GCP",
+      "versions": [
+        "2.0.24",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "gesturehandler",
+      "versions": [
+        "0.1.30",
+        "0.2.30",
+        "1.6.11",
+        "1.6.13",
+        "1.6.9",
+        "2.0.35",
+        "3.0.5",
+        "3.0.7",
+        "3.0.9",
+        "3.5.2",
+        "3.5.4",
+        "4.5.6",
+        "4.6.43",
+        "6.0.6",
+        "7.2.72"
+      ]
+    },
+    {
+      "name": "github",
+      "versions": [
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "glide-core",
+      "versions": [
+        "0.19.1",
+        "0.34.2",
+        "0.34.3",
+        "1.1.2",
+        "1.205.1",
+        "1.205.2",
+        "2.1.5",
+        "5.0.1",
+        "5.0.3"
+      ]
+    },
+    {
+      "name": "globalize-rpk",
+      "versions": [
+        "0.0.14",
+        "0.0.2",
+        "0.2.1",
+        "0.2.3",
+        "0.4.4",
+        "0.4.7",
+        "1.0.2",
+        "1.0.3",
+        "1.1.1",
+        "1.2.1",
+        "1.3.1",
+        "1.6.5",
+        "1.7.4",
+        "13.0.1",
+        "21.2.8",
+        "24.1.7",
+        "5.11.1",
+        "5.3.8"
+      ]
+    },
+    {
+      "name": "golang-template",
+      "versions": [
+        "1.4.2",
+        "1.4.3",
+        "1.9.1",
+        "3.0.5",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "6.0.1",
+        "6.0.2",
+        "7.0.1",
+        "7.0.2",
+        "9.0.22",
+        "9.0.42",
+        "9.2.1",
+        "9.2.2"
+      ]
+    },
+    {
+      "name": "graphql",
+      "versions": [
+        "1.0.8-0",
+        "9.0.2",
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.53",
+        "9.0.56",
+        "9.0.57",
+        "9.0.58",
+        "9.0.59"
+      ]
+    },
+    {
+      "name": "graphql-sequelize-teselagen",
+      "versions": [
+        "0.0.10",
+        "0.0.2",
+        "0.2.1",
+        "0.2.3",
+        "0.3.16",
+        "0.3.17",
+        "0.3.21",
+        "0.8.19",
+        "1.0.1",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.2.1",
+        "1.3.1",
+        "13.0.1",
+        "18.1.4",
+        "2.14.4",
+        "20.0.3",
+        "20.0.4",
+        "20.0.6",
+        "5.11.1",
+        "5.11.2",
+        "5.3.8",
+        "5.3.9",
+        "6.10.22",
+        "7.0.3",
+        "8.0.2",
+        "8.0.3",
+        "9.0.38"
+      ]
+    },
+    {
+      "name": "has",
+      "versions": [
+        "airpilot@0.8.8",
+        "common@2.0.22",
+        "common@2.0.28",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "hash",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "headroom",
+      "versions": [
+        "9.0.2",
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.39",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "help",
+      "versions": [
+        "0.0.5",
+        "1.0.3",
+        "9.0.27",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.56",
+        "9.0.58"
+      ]
+    },
+    {
+      "name": "html-to-base64-image",
+      "versions": [
+        "0.0.2",
+        "0.2.1",
+        "0.2.3",
+        "0.4.4",
+        "0.4.7",
+        "1.0.2",
+        "1.0.3",
+        "1.0.8",
+        "1.1.1",
+        "1.1.5",
+        "1.2.1",
+        "1.3.1",
+        "1.6.5",
+        "13.0.1",
+        "5.11.1"
+      ]
+    },
+    {
+      "name": "http-server",
+      "versions": [
+        "0.1.11",
+        "0.1.12",
+        "0.1.9",
+        "1.0.10",
+        "1.0.4",
+        "1.0.5",
+        "1.0.9",
+        "2.0.13",
+        "2.0.15",
+        "2.0.21",
+        "2.0.23",
+        "2.0.24",
+        "2.0.25",
+        "2.0.26",
+        "2.0.27",
+        "2.0.28",
+        "2.0.32",
+        "2.0.7"
+      ]
+    },
+    {
+      "name": "hundreds",
+      "versions": [
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "db-context@2.0.21",
+        "db-context@2.0.24",
+        "di@2.0.28",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "i18n",
+      "versions": [
+        "9.0.27",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.46",
+        "9.0.48"
+      ]
+    },
+    {
+      "name": "identified",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "Impacted",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "6.0.2",
+        "7.0.2",
+        "7.2.2",
+        "9.2.2"
+      ]
+    },
+    {
+      "name": "in",
+      "versions": [
+        "airpilot@0.8.8",
+        "ngx-perfect-scrollbar@20.0.20"
+      ]
+    },
+    {
+      "name": "including",
+      "versions": [
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "Info",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "infrastructure",
+      "versions": [
+        "common@2.0.22",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "input",
+      "versions": [
+        "0.0.3",
+        "0.0.5",
+        "1.0.2",
+        "1.0.3",
+        "9.0.22",
+        "9.0.27",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.56"
+      ]
+    },
+    {
+      "name": "integration-base",
+      "versions": [
+        "0.4.1",
+        "1.0.2",
+        "1.0.8",
+        "1.0.8-0",
+        "13.0.1",
+        "3.0.8",
+        "6.0.1",
+        "9.0.27",
+        "9.0.35",
+        "9.0.37",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "integration-marketplace",
+      "versions": [
+        "0.4.1",
+        "1.0.2",
+        "1.0.8",
+        "3.0.8",
+        "6.0.1",
+        "9.0.27",
+        "9.0.29",
+        "9.0.35",
+        "9.0.37",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "name": "into",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "is",
+      "versions": [
+        "\"1.0.0\"",
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "it",
+      "versions": [
+        "\"1.0.0\"",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "db-context@2.0.21",
+        "db-context@2.0.24",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "its",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "jpeg-camera-es6",
+      "versions": [
+        "0.0.2",
+        "0.0.35",
+        "0.0.4",
+        "0.0.5",
+        "0.2.4",
+        "0.3.1",
+        "0.8.8",
+        "1.0.13",
+        "1.0.2",
+        "1.0.5",
+        "1.1.8",
+        "14.1.1",
+        "3.0.8",
+        "6.5.17",
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "js",
+      "versions": [
+        "0.3.1",
+        "0.3.22",
+        "0.4.30",
+        "0.8.8",
+        "1.0.10",
+        "1.0.10-0",
+        "1.0.13",
+        "1.0.8",
+        "1.0.8-0",
+        "1.0.9-0",
+        "24.1.7",
+        "6.10.20",
+        "6.5.17",
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "JS",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "json-rules-engine-simplified",
+      "versions": [
+        "0.0.2",
+        "0.0.33",
+        "0.0.34",
+        "0.0.6",
+        "0.1.1",
+        "0.1.2",
+        "0.2.1",
+        "0.2.2",
+        "0.2.3",
+        "0.2.4",
+        "0.3.18",
+        "0.3.19",
+        "0.3.20",
+        "0.3.21",
+        "0.4.4",
+        "0.4.7",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.7",
+        "1.2.1",
+        "1.3.1",
+        "1.3.4",
+        "10.0.2",
+        "13.0.1",
+        "18.1.4",
+        "19.0.3",
+        "20.0.3",
+        "20.0.4",
+        "20.0.6",
+        "5.11.1",
+        "5.11.2",
+        "7.0.3",
+        "8.0.2",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "jumpgate",
+      "versions": [
+        "0.0.2",
+        "0.1.5",
+        "0.4.4",
+        "0.4.7",
+        "1.0.3",
+        "1.0.8",
+        "1.1.1",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "1.2.1",
+        "1.3.1",
+        "1.6.5",
+        "13.0.1",
+        "5.11.1",
+        "6.10.19"
+      ]
+    },
+    {
+      "name": "known-infected",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18"
+      ]
+    },
+    {
+      "name": "koa2-swagger-ui",
+      "versions": [
+        "0.0.2",
+        "0.4.4",
+        "0.4.7",
+        "1.0.3",
+        "1.1.1",
+        "1.2.1",
+        "1.3.1",
+        "1.4.2",
+        "1.4.3",
+        "1.6.5",
+        "10.0.2",
+        "13.0.1",
+        "18.1.4",
+        "19.0.2",
+        "20.0.3",
+        "20.0.4",
+        "20.0.6",
+        "4.0.1",
+        "4.0.3",
+        "4.1.2",
+        "5.11.1",
+        "5.11.2",
+        "6.0.2",
+        "6.3.1",
+        "7.0.2",
+        "7.0.3",
+        "8.0.2",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "layout",
+      "versions": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.44",
+        "9.0.46"
+      ]
+    },
+    {
+      "name": "library",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "liquibase-tools",
+      "versions": [
+        "0.0.4",
+        "0.0.5",
+        "0.3.14",
+        "0.3.33",
+        "0.4.1",
+        "0.7.39",
+        "0.8.19",
+        "1.0.6",
+        "1.1.4",
+        "6.10.19",
+        "6.10.20",
+        "6.10.21",
+        "9.0.43",
+        "9.0.45",
+        "9.0.47"
+      ]
+    },
+    {
+      "name": "list",
+      "versions": [
+        "0.0.3",
+        "0.2.1"
+      ]
+    },
+    {
+      "name": "logger",
+      "versions": [
+        "0.1.3",
+        "0.1.6",
+        "0.1.7",
+        "0.2.1",
+        "1.1.6",
+        "1.1.8",
+        "2.0.35",
+        "2.0.6",
+        "2.0.8",
+        "20.0.4",
+        "20.0.6",
+        "3.0.5",
+        "3.0.7",
+        "3.0.9",
+        "3.5.2",
+        "3.5.4",
+        "5.0.1",
+        "5.0.3"
+      ]
+    },
+    {
+      "name": "logscale-dashboard",
+      "versions": [
+        "0.4.2",
+        "1.0.1",
+        "1.1.3",
+        "1.205.1",
+        "1.205.2",
+        "2.1.6",
+        "4.1.1",
+        "5.0.1",
+        "5.0.3",
+        "7.2.1",
+        "9.0.36",
+        "9.0.44"
+      ]
+    },
+    {
+      "name": "logscale-file-editor",
+      "versions": [
+        "0.1.6",
+        "0.2.1",
+        "1.0.1",
+        "1.205.1",
+        "1.205.2",
+        "1.4.2",
+        "4.1.1",
+        "5.0.1",
+        "5.0.3",
+        "7.2.1",
+        "8.1.1"
+      ]
+    },
+    {
+      "name": "logscale-parser-edit",
+      "versions": [
+        "0.1.2",
+        "0.1.6",
+        "0.19.1",
+        "0.2.1",
+        "1.1.2",
+        "1.205.1",
+        "1.205.2",
+        "1.4.2",
+        "4.0.3",
+        "4.1.1",
+        "5.0.1",
+        "5.0.3",
+        "7.2.1",
+        "8.1.1",
+        "9.0.36"
+      ]
+    },
+    {
+      "name": "logscale-search",
+      "versions": [
+        "0.1.2",
+        "0.1.6",
+        "0.2.1",
+        "0.4.2",
+        "1.0.1",
+        "1.205.1",
+        "1.205.2",
+        "1.4.2",
+        "2.1.6",
+        "4.0.3",
+        "4.1.1",
+        "5.0.1",
+        "5.0.3",
+        "7.0.1",
+        "7.2.1",
+        "9.0.36",
+        "9.0.44"
+      ]
+    },
+    {
+      "name": "magnet-link",
+      "versions": [
+        "1.9.1",
+        "19.0.1",
+        "2.0.2",
+        "3.0.5",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "6.0.1",
+        "6.0.2",
+        "7.0.1",
+        "7.0.2",
+        "8.0.1",
+        "9.2.1",
+        "9.2.2",
+        "9.7.1",
+        "9.7.2"
+      ]
+    },
+    {
+      "name": "malicious",
+      "versions": [
+        "4.1.1",
+        "4.1.2.",
+        "airpilot@0.8.8",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "Malicious",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "mcfly-semantic-release",
+      "versions": [
+        "0.0.2",
+        "0.1.3",
+        "0.4.4",
+        "0.4.7",
+        "0.8.5",
+        "1.0.24",
+        "1.0.3",
+        "1.0.32",
+        "1.0.4",
+        "1.1.1",
+        "1.1.5",
+        "1.2.1",
+        "1.3.1",
+        "1.3.4",
+        "1.6.5",
+        "13.0.1",
+        "4.1.1",
+        "6.0.326",
+        "7.0.2",
+        "7.2.1",
+        "7.3.1",
+        "8.0.1",
+        "8.0.3",
+        "9.7.1"
+      ]
+    },
+    {
+      "name": "mcp-knowledge-base",
+      "versions": [
+        "0.0.2",
+        "0.1.5",
+        "0.4.4",
+        "0.4.7",
+        "1.0.3",
+        "1.0.4",
+        "1.1.1",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "1.2.1",
+        "1.6.1",
+        "1.6.5",
+        "13.0.1",
+        "6.10.19",
+        "7.0.2",
+        "8.0.1",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "mcp-knowledge-graph",
+      "versions": [
+        "0.0.2",
+        "0.1.5",
+        "0.3.1",
+        "0.4.4",
+        "0.4.7",
+        "1.0.3",
+        "1.0.4",
+        "1.1.1",
+        "1.1.2",
+        "1.1.5",
+        "1.2.1",
+        "1.6.1",
+        "1.6.5",
+        "13.0.1",
+        "18.1.4",
+        "4.0.1",
+        "7.0.2",
+        "8.0.1",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "meantime",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "Migrates",
+      "versions": [
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "mobioffice-cli",
+      "versions": [
+        "0.4.4",
+        "0.4.7",
+        "1.0.3",
+        "1.0.4",
+        "1.1.1",
+        "1.1.5",
+        "1.6.1",
+        "1.6.5",
+        "13.0.1",
+        "18.1.4",
+        "19.0.4",
+        "20.0.20",
+        "4.0.1",
+        "4.0.4",
+        "7.0.2",
+        "8.0.1",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "monitoring",
+      "versions": [
+        "common@2.0.22",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "monorepo-next",
+      "versions": [
+        "0.34.3",
+        "0.4.4",
+        "0.4.7",
+        "1.0.12",
+        "1.0.2",
+        "1.0.4",
+        "1.1.1",
+        "1.1.5",
+        "1.6.1",
+        "1.6.5",
+        "11.0.2",
+        "11.0.3",
+        "13.0.1",
+        "13.0.2",
+        "18.1.4",
+        "19.0.4",
+        "2.2.1",
+        "20.0.4",
+        "4.0.1",
+        "4.0.3",
+        "4.0.4",
+        "5.0.2",
+        "7.0.2",
+        "8.0.1",
+        "8.0.3",
+        "8.1.2"
+      ]
+    },
+    {
+      "name": "more",
+      "versions": [
+        "\"1.0.0\"",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18"
+      ]
+    },
+    {
+      "name": "mstate-angular",
+      "versions": [
+        "0.4.4",
+        "0.4.7",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.1.1",
+        "1.1.2",
+        "1.1.5",
+        "1.6.1",
+        "1.6.5",
+        "10.0.1",
+        "18.1.4",
+        "19.0.4",
+        "20.0.20",
+        "20.0.4",
+        "20.0.6",
+        "4.0.1",
+        "7.0.2",
+        "8.0.1",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "mstate-cli",
+      "versions": [
+        "0.4.7",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.1.1",
+        "1.1.2",
+        "1.1.5",
+        "1.6.1",
+        "1.6.5",
+        "10.0.1",
+        "18.1.4",
+        "19.0.4",
+        "2.0.14",
+        "20.0.20",
+        "20.0.4",
+        "20.0.6",
+        "4.0.1",
+        "4.0.4",
+        "7.0.2",
+        "8.0.1",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "mstate-dev-react",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.1.1",
+        "1.1.2",
+        "1.1.5",
+        "1.6.1",
+        "1.6.5",
+        "10.0.1",
+        "18.1.4",
+        "19.0.1",
+        "19.0.4",
+        "2.0.14",
+        "2.0.15",
+        "20.0.20",
+        "20.0.4",
+        "20.0.6",
+        "4.0.1",
+        "4.0.4",
+        "7.0.2",
+        "8.0.1",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "mstate-react",
+      "versions": [
+        "0.1.5",
+        "0.4.7",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.1.1",
+        "1.1.2",
+        "1.1.5",
+        "1.6.1",
+        "1.6.5",
+        "10.0.1",
+        "18.1.4",
+        "19.0.1",
+        "19.0.4",
+        "2.0.14",
+        "20.0.20",
+        "20.0.4",
+        "20.0.6",
+        "4.0.1",
+        "4.0.4",
+        "7.0.2",
+        "8.0.1",
+        "8.0.3"
+      ]
+    },
+    {
+      "name": "much",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "mui",
+      "versions": [
+        "0.0.2",
+        "0.3.1",
+        "0.3.22",
+        "0.4.30",
+        "0.8.8",
+        "0.9.10",
+        "1.0.10",
+        "1.0.10-0",
+        "1.0.13",
+        "1.0.2",
+        "1.0.3",
+        "1.0.8",
+        "1.0.8-0",
+        "1.0.9-0",
+        "1.1.3",
+        "14.1.1",
+        "24.1.7",
+        "3.0.8",
+        "35.0.15",
+        "6.10.20",
+        "6.5.17",
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "name",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "Name",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "1.0.2"
+      ]
+    },
+    {
+      "name": "nativescript-checkbox",
+      "versions": [
+        "1.1.28",
+        "1.1.6",
+        "14.1.38",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9",
+        "2.5.5",
+        "20.0.4",
+        "20.0.6",
+        "5.0.1",
+        "5.0.3",
+        "5.0.4",
+        "5.1.11",
+        "5.1.13",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74"
+      ]
+    },
+    {
+      "name": "nativescript-loading-indicator",
+      "versions": [
+        "1.1.7",
+        "1.3.36",
+        "1.6.10",
+        "2.0.8",
+        "2.5.7",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7",
+        "3.0.5",
+        "3.0.6",
+        "3.0.7",
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "5.0.4",
+        "5.1.11",
+        "5.1.13",
+        "7.2.72",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "new",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "ng-imports-checker",
+      "versions": [
+        "0.0.10",
+        "0.0.9",
+        "1.0.1",
+        "1.0.5",
+        "1.0.6",
+        "1.1.6",
+        "14.1.35",
+        "2.0.24",
+        "2.0.6"
+      ]
+    },
+    {
+      "name": "ng2-file-upload",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "1.0.2",
+        "1.1.5",
+        "10.0.1",
+        "10.0.2",
+        "18.1.4",
+        "19.0.1",
+        "19.0.2",
+        "19.0.4",
+        "20.0.3",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "35.0.14",
+        "7.0.2",
+        "7.0.3",
+        "8.0.1",
+        "8.0.2",
+        "8.0.3",
+        "9.0.1"
+      ]
+    },
+    {
+      "name": "ngx-bootstrap",
+      "versions": [
+        "0.0.2",
+        "0.0.9",
+        "1.0.2",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "10.0.1",
+        "10.0.2",
+        "18.1.4",
+        "19.0.1",
+        "19.0.2",
+        "19.0.3",
+        "19.0.4",
+        "20.0.3",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "35.0.14",
+        "7.0.2",
+        "7.0.3",
+        "8.0.1",
+        "8.0.2",
+        "8.0.3",
+        "9.0.1"
+      ]
+    },
+    {
+      "name": "ngx-codemirror",
+      "versions": [
+        "1.9.1",
+        "14.1.1",
+        "19.0.1",
+        "2.0.1",
+        "2.0.2",
+        "3.0.5",
+        "4.0.1",
+        "4.0.2",
+        "6.0.1",
+        "6.0.2",
+        "7.0.1",
+        "7.0.2",
+        "9.0.2",
+        "9.0.22",
+        "9.0.42",
+        "9.2.1",
+        "9.2.2",
+        "9.7.1",
+        "9.7.2"
+      ]
+    },
+    {
+      "name": "ngx-color",
+      "versions": [
+        "0.0.32",
+        "0.0.34",
+        "0.0.9",
+        "0.1.30",
+        "0.3.18",
+        "0.3.20",
+        "1.0.4",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "1.4.3",
+        "1.6.1",
+        "10.0.1",
+        "10.0.2",
+        "19.0.1",
+        "19.0.2",
+        "2.0.35",
+        "35.0.14",
+        "4.1.2",
+        "6.0.2",
+        "7.2.72",
+        "8.0.1",
+        "9.2.1"
+      ]
+    },
+    {
+      "name": "ngx-csv",
+      "versions": [
+        "1.4.3",
+        "1.9.1",
+        "14.1.1",
+        "19.0.1",
+        "19.0.2",
+        "2.0.1",
+        "2.0.2",
+        "3.0.5",
+        "4.0.1",
+        "4.0.2",
+        "6.0.1",
+        "6.0.2",
+        "6.3.1",
+        "6.3.2",
+        "7.0.2",
+        "9.2.1",
+        "9.2.2",
+        "9.7.1",
+        "9.7.2",
+        "tinycolor@4.1.1"
+      ]
+    },
+    {
+      "name": "ngx-emoji-mart",
+      "versions": [
+        "0.1.30",
+        "2.0.1",
+        "2.0.2",
+        "2.0.35",
+        "4.0.1",
+        "4.0.2",
+        "4.1.1",
+        "4.1.2",
+        "4.5.6",
+        "6.3.1",
+        "6.3.2",
+        "7.2.72",
+        "9.0.2",
+        "9.0.22",
+        "9.0.42",
+        "9.2.1",
+        "9.2.2",
+        "9.7.1",
+        "9.7.2",
+        "tinycolor@4.1.1"
+      ]
+    },
+    {
+      "name": "ngx-perfect-scrollbar",
+      "versions": [
+        "2.0.13",
+        "2.0.14",
+        "2.0.15",
+        "2.0.24",
+        "2.0.27",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "ngx-rightclick",
+      "versions": [
+        "1.4.2",
+        "2.0.1",
+        "2.0.2",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.1.1",
+        "4.1.2",
+        "6.0.1",
+        "6.3.1",
+        "6.3.2",
+        "7.0.1",
+        "7.3.1",
+        "9.7.1",
+        "9.7.2",
+        "tinycolor@4.1.1"
+      ]
+    },
+    {
+      "name": "ngx-toastr",
+      "versions": [
+        "0.0.32",
+        "0.0.34",
+        "0.0.9",
+        "0.3.18",
+        "0.3.20",
+        "1.0.3",
+        "1.0.4",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "1.4.3",
+        "1.6.1",
+        "10.0.1",
+        "14.1.1",
+        "19.0.1",
+        "19.0.2",
+        "2.0.1",
+        "35.0.14",
+        "4.0.1",
+        "4.1.1",
+        "7.0.2",
+        "8.0.1",
+        "9.0.22",
+        "9.2.2"
+      ]
+    },
+    {
+      "name": "ngx-trend",
+      "versions": [
+        "0.0.32",
+        "0.0.34",
+        "0.0.9",
+        "0.3.18",
+        "0.3.20",
+        "0.4.8",
+        "1.0.3",
+        "1.0.4",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "1.6.1",
+        "2.0.2",
+        "35.0.14",
+        "4.0.2",
+        "8.0.1",
+        "9.7.2"
+      ]
+    },
+    {
+      "name": "ngx-virtual-scroller",
+      "versions": [
+        "2.0.13",
+        "2.0.14",
+        "2.0.15",
+        "2.0.18",
+        "2.0.24",
+        "2.0.27",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "ngx-ws",
+      "versions": [
+        "0.0.32",
+        "0.0.34",
+        "0.0.9",
+        "0.1.5",
+        "0.3.18",
+        "1.0.1",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "1.1.6",
+        "1.6.1",
+        "2.0.15",
+        "2.0.21",
+        "2.0.28",
+        "35.0.14",
+        "4.0.1",
+        "6.0.1"
+      ]
+    },
+    {
+      "name": "not",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "npm",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "NPM",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "1.0.2",
+        "1.0.4"
+      ]
+    },
+    {
+      "name": "of",
+      "versions": [
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "2.0.28",
+        "2.0.4",
+        "20.0.20",
+        "4.0.4",
+        "4.1.1",
+        "4.1.2.",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "db-context@2.0.21",
+        "db-context@2.0.24",
+        "di@2.0.28",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "once",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "open-source",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "openapi",
+      "versions": [
+        "0.0.9",
+        "0.1.11",
+        "0.1.12",
+        "0.1.9",
+        "1.0.1",
+        "1.0.10",
+        "1.0.3",
+        "1.0.5",
+        "1.0.9",
+        "2.0.15",
+        "2.0.22",
+        "2.0.24",
+        "2.0.25",
+        "2.0.27",
+        "2.0.28",
+        "2.0.32"
+      ]
+    },
+    {
+      "name": "optimize",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "or",
+      "versions": [
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "oradm-to-gql",
+      "versions": [
+        "0.0.32",
+        "0.0.34",
+        "0.0.5",
+        "0.0.9",
+        "0.2.7",
+        "0.3.18",
+        "0.3.20",
+        "0.3.33",
+        "0.4.1",
+        "0.4.8",
+        "0.8.20",
+        "0.9.10",
+        "0.9.9",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "1.6.1",
+        "35.0.14",
+        "35.0.15",
+        "6.10.21"
+      ]
+    },
+    {
+      "name": "oradm-to-sqlz",
+      "versions": [
+        "0.0.3",
+        "0.0.32",
+        "0.0.34",
+        "0.0.4",
+        "0.0.5",
+        "0.0.9",
+        "0.2.2",
+        "0.2.3",
+        "0.2.7",
+        "0.3.18",
+        "0.3.20",
+        "0.4.8",
+        "0.7.40",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.8",
+        "1.1.2",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.3.2",
+        "1.6.1",
+        "2.14.5",
+        "4.0.1",
+        "6.10.19"
+      ]
+    },
+    {
+      "name": "original",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.2",
+        "qbittorrent@9.7.2"
+      ]
+    },
+    {
+      "name": "Original",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.2"
+      ]
+    },
+    {
+      "name": "Our",
+      "versions": [
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "ove",
+      "versions": [
+        "0.0.4",
+        "0.0.5",
+        "0.3.14",
+        "0.3.15",
+        "0.3.33",
+        "0.3.34",
+        "0.7.39",
+        "0.7.40",
+        "0.8.19",
+        "0.9.9",
+        "1.0.4",
+        "1.0.6",
+        "1.1.4",
+        "1.3.2",
+        "5.3.9",
+        "6.1.8",
+        "6.10.20",
+        "6.10.21"
+      ]
+    },
+    {
+      "name": "ove-auto-annotate",
+      "versions": [
+        "0.0.10",
+        "0.0.3",
+        "0.0.32",
+        "0.0.34",
+        "0.0.5",
+        "0.0.9",
+        "0.3.18",
+        "0.3.20",
+        "0.3.33",
+        "0.4.29",
+        "0.4.8",
+        "0.9.9",
+        "1.0.3",
+        "1.0.4",
+        "1.6.1",
+        "35.0.14",
+        "4.0.1",
+        "6.1.7",
+        "9.0.37",
+        "9.0.38"
+      ]
+    },
+    {
+      "name": "Overview",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "package",
+      "versions": [
+        "airpilot@0.8.8",
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.2",
+        "qbittorrent@9.7.2",
+        "react-adsense@2.0.2",
+        "shared-torrent@6.3.2",
+        "tinycolor@4.1.1",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "Package",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "1.0.2",
+        "2.0.24",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "package-base",
+      "versions": [
+        "1.0.10",
+        "1.0.3",
+        "1.0.5",
+        "1.0.6",
+        "1.0.9",
+        "1.1.4",
+        "1.1.4-0",
+        "1.1.5",
+        "1.1.5-0",
+        "1.1.6",
+        "1.6.1",
+        "14.1.35",
+        "2.0.15",
+        "2.0.6",
+        "7.2.72",
+        "8.1.1"
+      ]
+    },
+    {
+      "name": "packages",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "Packages",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "6.0.2",
+        "7.0.2",
+        "7.2.2",
+        "9.2.2",
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2"
+      ]
+    },
+    {
+      "name": "payload",
+      "versions": [
+        "airpilot@0.8.8",
+        "angulartics2@14.1.2",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "Pereira",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "perms",
+      "versions": [
+        "0.2.30",
+        "0.2.32",
+        "1.1.27",
+        "1.1.7",
+        "1.3.36",
+        "1.6.10",
+        "1.6.11",
+        "1.6.13",
+        "1.6.9",
+        "1.9.2",
+        "13.0.32",
+        "2.0.8",
+        "20.0.4",
+        "20.0.7",
+        "3.0.5",
+        "3.0.6",
+        "3.0.7",
+        "3.0.8",
+        "3.0.9",
+        "3.5.2",
+        "3.5.4",
+        "3.5.5",
+        "4.0.4",
+        "4.1.2",
+        "5.1.13",
+        "7.2.2",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "8.0.1"
+      ]
+    },
+    {
+      "name": "pm2-gelf-json",
+      "versions": [
+        "0.0.3",
+        "0.0.32",
+        "0.0.34",
+        "0.0.5",
+        "0.1.5",
+        "0.3.18",
+        "0.3.20",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.1.2",
+        "1.6.1",
+        "2.0.13",
+        "2.0.21",
+        "2.0.28",
+        "2.0.5",
+        "2.0.7",
+        "4.0.1",
+        "6.0.1"
+      ]
+    },
+    {
+      "name": "popular",
+      "versions": [
+        "4.1.1",
+        "4.1.2.",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "popup",
+      "versions": [
+        "9.0.2",
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.56",
+        "9.0.57",
+        "9.0.58",
+        "9.0.59"
+      ]
+    },
+    {
+      "name": "prettier",
+      "versions": [
+        "0.0.10",
+        "0.4.1",
+        "1.0.10",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.9",
+        "1.1.4",
+        "1.1.4-0",
+        "1.1.5-0",
+        "2.0.15",
+        "2.0.8",
+        "8.1.1"
+      ]
+    },
+    {
+      "name": "printjs-rpk",
+      "versions": [
+        "0.0.14",
+        "0.0.3",
+        "0.0.32",
+        "0.0.34",
+        "0.0.5",
+        "0.1.3",
+        "0.1.5",
+        "0.3.18",
+        "0.3.20",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.1.2",
+        "1.6.1",
+        "1.7.4",
+        "21.2.8",
+        "24.1.7",
+        "4.0.1",
+        "5.0.3",
+        "6.0.1"
+      ]
+    },
+    {
+      "name": "private",
+      "versions": [
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "promises",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "public",
+      "versions": [
+        "1.4.3",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "Published",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "1.0.2"
+      ]
+    },
+    {
+      "name": "pull-to-refresh",
+      "versions": [
+        "9.0.2",
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.57"
+      ]
+    },
+    {
+      "name": "qbittorrent",
+      "versions": [
+        "10.0.2",
+        "14.1.2",
+        "2.0.1",
+        "2.0.2",
+        "3.0.6",
+        "4.0.1",
+        "4.0.2",
+        "4.1.1",
+        "4.1.2",
+        "5.11.1",
+        "5.11.2",
+        "6.3.1",
+        "6.3.2",
+        "7.2.1",
+        "7.3.1",
+        "9.7.1",
+        "9.7.2",
+        "tinycolor@4.1.1"
+      ]
+    },
+    {
+      "name": "range-utils",
+      "versions": [
+        "0.0.10",
+        "0.0.9",
+        "0.3.14",
+        "0.3.17",
+        "0.3.33",
+        "0.4.29",
+        "0.8.19",
+        "0.9.9",
+        "1.0.10",
+        "1.1.4",
+        "14.1.2",
+        "35.0.14",
+        "5.3.9",
+        "6.1.7",
+        "6.10.19",
+        "6.10.20",
+        "6.10.21",
+        "6.10.22",
+        "9.0.43",
+        "9.0.45",
+        "9.0.47",
+        "9.0.49"
+      ]
+    },
+    {
+      "name": "react",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.3.1",
+        "0.3.22",
+        "0.4.30",
+        "0.8.8",
+        "1.0.10",
+        "1.0.10-0",
+        "1.0.13",
+        "1.0.2",
+        "1.0.3",
+        "1.0.8",
+        "1.0.8-0",
+        "1.0.9-0",
+        "1.1.3",
+        "14.1.1",
+        "24.1.7",
+        "3.0.8",
+        "35.0.15",
+        "6.10.20",
+        "6.5.17",
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "react-adsense",
+      "versions": [
+        "0.1.30",
+        "0.2.1",
+        "10.0.1",
+        "14.1.2",
+        "2.0.1",
+        "2.0.2",
+        "2.0.35",
+        "3.0.6",
+        "4.0.1",
+        "4.0.2",
+        "4.1.1",
+        "4.1.2",
+        "6.3.1",
+        "6.3.2",
+        "7.2.72",
+        "7.3.1",
+        "9.2.1",
+        "9.7.2",
+        "tinycolor@4.1.1"
+      ]
+    },
+    {
+      "name": "react-complaint-image",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.32",
+        "0.0.33",
+        "0.0.34",
+        "0.0.35",
+        "0.0.5",
+        "0.0.6",
+        "0.1.1",
+        "0.1.2",
+        "0.2.4",
+        "0.3.1",
+        "0.3.18",
+        "0.3.19",
+        "0.3.20",
+        "0.3.21",
+        "0.4.8",
+        "0.8.8",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.7",
+        "1.2.1",
+        "18.1.4",
+        "19.0.3",
+        "20.0.3",
+        "4.0.1"
+      ]
+    },
+    {
+      "name": "react-jsonschema-form-conditionals",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.32",
+        "0.0.5",
+        "0.0.6",
+        "0.1.1",
+        "0.1.2",
+        "0.3.18",
+        "0.3.19",
+        "0.3.20",
+        "0.3.21",
+        "0.4.8",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6",
+        "1.0.7",
+        "1.3.4",
+        "1.9.1",
+        "18.1.4",
+        "19.0.3",
+        "20.0.3",
+        "4.0.1",
+        "7.3.1",
+        "9.0.1"
+      ]
+    },
+    {
+      "name": "react-jsonschema-form-extras",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.32",
+        "0.0.5",
+        "0.1.1",
+        "0.1.2",
+        "0.3.1",
+        "0.4.8",
+        "0.8.8",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6",
+        "1.2.1",
+        "1.3.4",
+        "1.9.2",
+        "18.1.4",
+        "19.0.3",
+        "20.0.3",
+        "4.1.1",
+        "7.3.1",
+        "8.0.1",
+        "9.0.1",
+        "9.7.1"
+      ]
+    },
+    {
+      "name": "react-jsonschema-rxnt-extras",
+      "versions": [
+        "0.0.3",
+        "0.0.5",
+        "0.4.6",
+        "0.4.7",
+        "0.4.8",
+        "0.4.9",
+        "1.0.2",
+        "1.0.4",
+        "1.0.6",
+        "1.9.2",
+        "2.14.4"
+      ]
+    },
+    {
+      "name": "react-list",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.2.6",
+        "0.2.7",
+        "0.3.14",
+        "0.3.16",
+        "0.3.21",
+        "0.3.33",
+        "0.7.40",
+        "0.8.19",
+        "0.8.20",
+        "0.9.9",
+        "1.0.1",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "14.1.2",
+        "2.14.5",
+        "6.10.19",
+        "6.10.20",
+        "6.10.21",
+        "9.0.43",
+        "9.0.45",
+        "9.0.47",
+        "9.0.49"
+      ]
+    },
+    {
+      "name": "react-table",
+      "versions": [
+        "0.0.10",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.3.33",
+        "0.4.1",
+        "0.7.39",
+        "0.9.9",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.0.8",
+        "1.1.3",
+        "1.1.4",
+        "14.1.2",
+        "6.1.7",
+        "6.10.19",
+        "6.10.20",
+        "6.10.21",
+        "6.10.22",
+        "9.0.38",
+        "9.0.42",
+        "9.0.43",
+        "9.0.45",
+        "9.0.47",
+        "9.0.49"
+      ]
+    },
+    {
+      "name": "registry",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "releases",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "remains",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2"
+      ]
+    },
+    {
+      "name": "remark-preset-lint-crowdstrike",
+      "versions": [
+        "0.0.3",
+        "0.0.5",
+        "0.1.3",
+        "0.1.5",
+        "0.19.2",
+        "0.34.2",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.6",
+        "1.1.2",
+        "1.9.1",
+        "11.0.3",
+        "13.0.2",
+        "2.1.5",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326"
+      ]
+    },
+    {
+      "name": "removed",
+      "versions": [
+        "0.0.10",
+        "0.0.14",
+        "0.0.2",
+        "0.0.3",
+        "0.0.32",
+        "0.0.33",
+        "0.0.34",
+        "0.0.35",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.9",
+        "0.1.1",
+        "0.1.11",
+        "0.1.12",
+        "0.1.2",
+        "0.1.3",
+        "0.1.30",
+        "0.1.5",
+        "0.1.6",
+        "0.1.7",
+        "0.1.9",
+        "0.19.1",
+        "0.19.2",
+        "0.2.1",
+        "0.2.2",
+        "0.2.3",
+        "0.2.30",
+        "0.2.31",
+        "0.2.32",
+        "0.2.33",
+        "0.2.4",
+        "0.2.6",
+        "0.2.7",
+        "0.3.1",
+        "0.3.14",
+        "0.3.15",
+        "0.3.16",
+        "0.3.17",
+        "0.3.18",
+        "0.3.19",
+        "0.3.20",
+        "0.3.21",
+        "0.3.22",
+        "0.3.33",
+        "0.3.34",
+        "0.34.2",
+        "0.34.3",
+        "0.4.1",
+        "0.4.2",
+        "0.4.29",
+        "0.4.30",
+        "0.4.4",
+        "0.4.7",
+        "0.7.39",
+        "0.7.40",
+        "0.8.19",
+        "0.8.20",
+        "0.8.5",
+        "0.8.8",
+        "0.9.10",
+        "0.9.9",
+        "1.0.1",
+        "1.0.10",
+        "1.0.10-0",
+        "1.0.12",
+        "1.0.13",
+        "1.0.2",
+        "1.0.24",
+        "1.0.3",
+        "1.0.32",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.8-0",
+        "1.0.9",
+        "1.0.9-0",
+        "1.1.1",
+        "1.1.2",
+        "1.1.27",
+        "1.1.28",
+        "1.1.3",
+        "1.1.4",
+        "1.1.4-0",
+        "1.1.5",
+        "1.1.5-0",
+        "1.1.6",
+        "1.1.7",
+        "1.1.8",
+        "1.1.9",
+        "1.2.1",
+        "1.205.1",
+        "1.205.2",
+        "1.3.1",
+        "1.3.2",
+        "1.3.35",
+        "1.3.36",
+        "1.3.37",
+        "1.3.4",
+        "1.4.2",
+        "1.4.3",
+        "1.6.1",
+        "1.6.10",
+        "1.6.11",
+        "1.6.12",
+        "1.6.13",
+        "1.6.5",
+        "1.6.9",
+        "1.7.4",
+        "1.9.1",
+        "1.9.2",
+        "10.0.1",
+        "10.0.2",
+        "11.0.2",
+        "11.0.3",
+        "13.0.1",
+        "13.0.2",
+        "14.1.1",
+        "14.1.2",
+        "14.1.35",
+        "14.1.36",
+        "14.1.37",
+        "14.1.38",
+        "18.1.4",
+        "19.0.1",
+        "19.0.2",
+        "19.0.3",
+        "19.0.4",
+        "2.0.1",
+        "2.0.13",
+        "2.0.14",
+        "2.0.15",
+        "2.0.18",
+        "2.0.2",
+        "2.0.21",
+        "2.0.22",
+        "2.0.23",
+        "2.0.24",
+        "2.0.25",
+        "2.0.26",
+        "2.0.27",
+        "2.0.28",
+        "2.0.32",
+        "2.0.35",
+        "2.0.4",
+        "2.0.5",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9",
+        "2.1.5",
+        "2.1.6",
+        "2.14.4",
+        "2.14.5",
+        "2.2.1",
+        "2.2.2",
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "2.5.7",
+        "20.0.20",
+        "20.0.3",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7",
+        "21.2.8",
+        "24.1.7",
+        "3.0.5",
+        "3.0.6",
+        "3.0.7",
+        "3.0.8",
+        "3.0.9",
+        "3.5.2",
+        "3.5.3",
+        "3.5.4",
+        "3.5.5",
+        "35.0.14",
+        "35.0.15",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.0.4",
+        "4.1.1",
+        "4.1.2",
+        "4.5.6",
+        "4.6.43",
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "5.0.4",
+        "5.1.11",
+        "5.1.12",
+        "5.1.13",
+        "5.1.14",
+        "5.11.1",
+        "5.11.2",
+        "5.3.8",
+        "5.3.9",
+        "6.0.1",
+        "6.0.2",
+        "6.0.326",
+        "6.0.6",
+        "6.1.7",
+        "6.1.8",
+        "6.10.19",
+        "6.10.20",
+        "6.10.21",
+        "6.10.22",
+        "6.3.1",
+        "6.3.2",
+        "6.5.17",
+        "7.0.1",
+        "7.0.2",
+        "7.0.3",
+        "7.2.1",
+        "7.2.2",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76",
+        "7.3.1",
+        "8.0.1",
+        "8.0.2",
+        "8.0.3",
+        "8.1.1",
+        "8.1.2",
+        "9.0.1",
+        "9.0.2",
+        "9.0.22",
+        "9.0.27",
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.56",
+        "9.0.57",
+        "9.0.58",
+        "9.0.59",
+        "9.2.1",
+        "9.2.2",
+        "9.7.1",
+        "9.7.2"
+      ]
+    },
+    {
+      "name": "report",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.2",
+        "qbittorrent@9.7.2",
+        "react-adsense@2.0.2",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "repos",
+      "versions": [
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "rxnt-authentication",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.0.33",
+        "0.0.34",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.1.2",
+        "0.2.1",
+        "0.2.2",
+        "0.2.3",
+        "0.3.18",
+        "0.3.19",
+        "0.3.20",
+        "1.0.2",
+        "1.0.4",
+        "1.0.6",
+        "1.0.7",
+        "1.1.2",
+        "1.3.1",
+        "1.3.4",
+        "1.9.1",
+        "1.9.2",
+        "2.14.4",
+        "7.3.1",
+        "9.7.1"
+      ]
+    },
+    {
+      "name": "rxnt-healthchecks-nestjs",
+      "versions": [
+        "0.0.3",
+        "0.0.32",
+        "0.0.33",
+        "0.0.34",
+        "0.0.35",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.2.2",
+        "0.2.3",
+        "0.2.4",
+        "0.3.20",
+        "0.3.21",
+        "0.8.8",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.9",
+        "1.1.2",
+        "1.2.1",
+        "1.3.1",
+        "1.9.1",
+        "1.9.2",
+        "2.14.4",
+        "20.0.3",
+        "3.0.6"
+      ]
+    },
+    {
+      "name": "rxnt-kue",
+      "versions": [
+        "0.0.32",
+        "0.0.33",
+        "0.0.34",
+        "0.0.4",
+        "0.2.2",
+        "0.2.3",
+        "0.2.6",
+        "0.3.1",
+        "0.3.19",
+        "0.3.20",
+        "0.8.8",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.9",
+        "1.1.2",
+        "1.2.1",
+        "1.3.1",
+        "1.3.4",
+        "1.9.1",
+        "1.9.2",
+        "2.14.4",
+        "3.0.5",
+        "3.0.6",
+        "4.1.1",
+        "7.3.1",
+        "9.7.1"
+      ]
+    },
+    {
+      "name": "same",
+      "versions": [
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "scalar",
+      "versions": [
+        "0.1.6",
+        "0.1.7",
+        "0.1.9",
+        "1.0.9",
+        "1.1.6",
+        "1.1.8",
+        "1.3.1",
+        "2.0.35",
+        "2.14.4",
+        "3.0.5",
+        "3.0.7",
+        "3.0.9",
+        "3.5.2",
+        "3.5.4",
+        "5.3.8"
+      ]
+    },
+    {
+      "name": "secrets.",
+      "versions": [
+        "2.0.24",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "see",
+      "versions": [
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "sentry",
+      "versions": [
+        "0.1.30",
+        "1.6.11",
+        "1.6.13",
+        "1.6.9",
+        "4.5.6",
+        "4.6.43",
+        "6.0.6",
+        "7.2.72",
+        "7.2.76",
+        "ngx-toastr@19.0.2",
+        "react-complaint-image@0.0.35",
+        "react-jsonschema-form-conditionals@0.3.21",
+        "rxnt-authentication@0.0.6",
+        "rxnt-healthchecks-nestjs@1.0.5",
+        "text@1.6.13",
+        "ui-collectionview@6.0.6",
+        "ui-drawer@0.1.30",
+        "ui-image@4.5.6",
+        "ui-material-bottomsheet@7.2.72",
+        "ui-material-core-tabs@7.2.76",
+        "ui-material-core@7.2.76"
+      ]
+    },
+    {
+      "name": "sequence-utils",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.2.1",
+        "0.2.3",
+        "0.3.15",
+        "0.3.17",
+        "0.3.33",
+        "0.3.34",
+        "0.4.1",
+        "0.7.39",
+        "0.9.9",
+        "1.0.10",
+        "14.1.2",
+        "5.3.8",
+        "5.3.9",
+        "6.1.7",
+        "6.10.21",
+        "6.10.22"
+      ]
+    },
+    {
+      "name": "SHA256",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "7.0.2",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "shared-torrent",
+      "versions": [
+        "0.1.6",
+        "0.2.1",
+        "1.4.2",
+        "10.0.2",
+        "14.1.2",
+        "2.0.35",
+        "3.0.6",
+        "4.0.1",
+        "4.0.2",
+        "4.0.3",
+        "4.1.1",
+        "4.1.2",
+        "4.6.43",
+        "5.11.2",
+        "6.3.1",
+        "6.3.2",
+        "7.0.1",
+        "7.3.1",
+        "tinycolor@4.1.1"
+      ]
+    },
+    {
+      "name": "shell",
+      "versions": [
+        "1.0.8",
+        "24.1.7",
+        "6.5.17",
+        "9.0.2",
+        "9.0.22",
+        "9.0.27",
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47"
+      ]
+    },
+    {
+      "name": "similar",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4"
+      ]
+    },
+    {
+      "name": "site",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "7.0.2",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "slf",
+      "versions": [
+        "0.19.1",
+        "0.4.1",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.9",
+        "1.1.5",
+        "1.1.6",
+        "2.0.13",
+        "2.0.15",
+        "2.0.21",
+        "2.0.22",
+        "2.0.28",
+        "8.1.1"
+      ]
+    },
+    {
+      "name": "slipped",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "sqlite",
+      "versions": [
+        "0.1.3",
+        "0.2.30",
+        "0.2.32",
+        "0.2.33",
+        "1.1.27",
+        "1.1.28",
+        "1.3.1",
+        "1.3.35",
+        "1.3.37",
+        "1.6.11",
+        "1.6.13",
+        "1.6.9",
+        "13.0.32",
+        "14.1.38",
+        "2.0.7",
+        "2.0.9",
+        "2.5.6",
+        "20.0.7",
+        "3.5.2",
+        "3.5.3",
+        "3.5.4",
+        "3.5.5",
+        "5.0.3",
+        "5.0.4",
+        "5.1.14",
+        "6.0.6",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74"
+      ]
+    },
+    {
+      "name": "ssl-info",
+      "versions": [
+        "0.0.9",
+        "0.19.1",
+        "0.34.2",
+        "0.4.1",
+        "1.0.1",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.0.6",
+        "1.0.9",
+        "2.0.24",
+        "2.0.5",
+        "8.1.1"
+      ]
+    },
+    {
+      "name": "Status",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "1.0.2",
+        "1.0.4"
+      ]
+    },
+    {
+      "name": "styles",
+      "versions": [
+        "0.3.16",
+        "1.1.4",
+        "9.0.2",
+        "9.0.22",
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46"
+      ]
+    },
+    {
+      "name": "Supply",
+      "versions": [
+        "4.1.1"
+      ]
+    },
+    {
+      "name": "swc-plugin-component-annotate",
+      "versions": [
+        "0.1.5",
+        "0.2.6",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.9",
+        "1.1.2",
+        "1.3.1",
+        "1.9.1",
+        "1.9.2",
+        "14.1.1",
+        "19.0.1",
+        "2.0.1",
+        "2.0.2",
+        "2.14.4",
+        "20.0.20",
+        "3.0.5",
+        "3.0.6",
+        "4.0.1",
+        "4.0.2",
+        "4.0.4",
+        "4.1.1",
+        "8.0.1"
+      ]
+    },
+    {
+      "name": "system",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "table",
+      "versions": [
+        "0.0.3",
+        "0.2.1"
+      ]
+    },
+    {
+      "name": "tailwind-toucan-base",
+      "versions": [
+        "0.1.2",
+        "0.1.6",
+        "0.1.7",
+        "0.19.1",
+        "0.2.1",
+        "0.34.3",
+        "1.1.2",
+        "1.205.1",
+        "1.205.2",
+        "1.4.2",
+        "4.0.3",
+        "4.1.1",
+        "5.0.1",
+        "5.0.2",
+        "6.0.1",
+        "7.0.1",
+        "7.2.1",
+        "8.1.2"
+      ]
+    },
+    {
+      "name": "targeting",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "tbssnch",
+      "versions": [
+        "0.1.3",
+        "0.1.5",
+        "0.2.6",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.9",
+        "1.1.2",
+        "1.3.1",
+        "2.14.4",
+        "21.2.8",
+        "3.0.5",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326",
+        "9.0.35"
+      ]
+    },
+    {
+      "name": "teselagen-interval-tree",
+      "versions": [
+        "0.1.3",
+        "0.1.5",
+        "0.2.6",
+        "0.3.15",
+        "0.3.34",
+        "0.7.40",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.0.9",
+        "1.1.2",
+        "1.3.1",
+        "1.3.2",
+        "2.14.4",
+        "21.2.8",
+        "3.0.5",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326",
+        "6.1.8"
+      ]
+    },
+    {
+      "name": "text",
+      "versions": [
+        "0.1.30",
+        "0.2.30",
+        "0.2.32",
+        "1.0.5",
+        "1.1.27",
+        "1.6.10",
+        "1.6.11",
+        "1.6.12",
+        "1.6.13",
+        "1.6.9",
+        "14.1.36",
+        "20.0.4",
+        "20.0.5",
+        "20.0.7",
+        "3.0.7",
+        "3.0.8",
+        "3.0.9",
+        "4.5.6",
+        "5.0.3",
+        "5.1.12",
+        "6.0.6",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "tg-client-query-builder",
+      "versions": [
+        "0.1.5",
+        "0.2.6",
+        "0.3.16",
+        "0.3.21",
+        "0.3.34",
+        "0.7.40",
+        "0.8.19",
+        "1.0.1",
+        "1.0.3",
+        "1.0.9",
+        "1.1.2",
+        "1.3.1",
+        "1.3.2",
+        "2.14.4",
+        "2.14.5",
+        "20.0.20",
+        "3.0.5",
+        "3.0.6",
+        "4.0.4",
+        "6.0.1",
+        "6.1.8"
+      ]
+    },
+    {
+      "name": "tg-redbird",
+      "versions": [
+        "0.1.5",
+        "0.2.6",
+        "0.3.15",
+        "0.3.16",
+        "0.3.17",
+        "0.3.34",
+        "0.8.19",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.9",
+        "1.3.1",
+        "1.3.2",
+        "2.0.28",
+        "2.14.4",
+        "20.0.20",
+        "3.0.5",
+        "3.0.6",
+        "4.0.4",
+        "5.3.8",
+        "5.3.9",
+        "6.0.1",
+        "6.1.8"
+      ]
+    },
+    {
+      "name": "tg-seq-gen",
+      "versions": [
+        "0.0.10",
+        "0.1.3",
+        "0.1.5",
+        "0.2.6",
+        "0.3.16",
+        "0.8.19",
+        "1.0.1",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.0.9",
+        "1.3.1",
+        "2.0.28",
+        "2.0.4",
+        "2.14.4",
+        "20.0.20",
+        "3.0.5",
+        "3.0.6",
+        "4.0.4",
+        "5.3.8",
+        "6.0.1",
+        "9.0.38"
+      ]
+    },
+    {
+      "name": "than",
+      "versions": [
+        "0.0.3",
+        "0.2.1",
+        "0.3.18"
+      ]
+    },
+    {
+      "name": "thangved-react-grid",
+      "versions": [
+        "0.1.3",
+        "0.1.5",
+        "0.2.6",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.0.8",
+        "21.2.8",
+        "3.0.5",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326"
+      ]
+    },
+    {
+      "name": "that",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "the",
+      "versions": [
+        "\"1.0.0\"",
+        "2.0.28",
+        "2.0.4",
+        "20.0.20",
+        "4.0.4",
+        "airpilot@0.8.8",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "The",
+      "versions": [
+        "0.0.3",
+        "4.1.1",
+        "4.1.2.",
+        "airpilot@0.8.8",
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.2",
+        "qbittorrent@9.7.2",
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "Theft",
+      "versions": [
+        "4.1.1",
+        "4.1.2."
+      ]
+    },
+    {
+      "name": "these",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-rightclick@4.0.2",
+        "qbittorrent@9.7.2",
+        "react-adsense@2.0.2",
+        "shared-torrent@6.3.2"
+      ]
+    },
+    {
+      "name": "this",
+      "versions": [
+        "ngx-perfect-scrollbar@20.0.20"
+      ]
+    },
+    {
+      "name": "tinycolor",
+      "versions": [
+        "0.1.2",
+        "0.1.6",
+        "0.1.7",
+        "0.2.1",
+        "1.4.3",
+        "10.0.1",
+        "19.0.2",
+        "2.0.1",
+        "4.0.1",
+        "4.1.1",
+        "4.1.2",
+        "4.1.2.",
+        "6.0.2",
+        "7.0.2",
+        "7.2.72",
+        "7.3.1",
+        "9.2.1"
+      ]
+    },
+    {
+      "name": "to",
+      "versions": [
+        "\"1.0.0\"",
+        "1.4.3",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "token",
+      "versions": [
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "tooling",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2"
+      ]
+    },
+    {
+      "name": "torrent-file",
+      "versions": [
+        "0.1.2",
+        "0.1.6",
+        "0.2.1",
+        "1.6.11",
+        "1.6.13",
+        "1.6.9",
+        "1.9.2",
+        "2.0.2",
+        "2.0.35",
+        "4.0.1",
+        "4.0.2",
+        "4.0.4",
+        "4.1.1",
+        "4.1.2",
+        "4.6.43",
+        "5.11.1",
+        "6.3.1",
+        "7.2.1",
+        "7.3.1",
+        "8.0.1"
+      ]
+    },
+    {
+      "name": "transmission",
+      "versions": [
+        "0.1.2",
+        "0.1.30",
+        "0.1.6",
+        "0.1.7",
+        "0.2.1",
+        "1.6.11",
+        "1.6.13",
+        "1.6.9",
+        "2.0.35",
+        "4.0.1",
+        "4.0.2",
+        "4.1.1",
+        "4.6.43",
+        "5.11.1",
+        "6.0.6",
+        "7.2.1",
+        "7.3.1",
+        "9.7.1"
+      ]
+    },
+    {
+      "name": "ts-base32",
+      "versions": [
+        "0.1.2",
+        "0.1.30",
+        "0.1.6",
+        "0.1.7",
+        "0.2.1",
+        "1.6.11",
+        "1.6.13",
+        "1.6.9",
+        "10.0.1",
+        "14.1.2",
+        "2.0.1",
+        "2.0.35",
+        "3.0.6",
+        "4.0.1",
+        "4.0.2",
+        "4.1.1",
+        "4.5.6",
+        "4.6.43",
+        "5.11.2",
+        "6.0.6",
+        "6.3.2",
+        "9.2.1",
+        "9.7.2"
+      ]
+    },
+    {
+      "name": "ts-gaussian",
+      "versions": [
+        "0.1.3",
+        "0.1.5",
+        "0.2.6",
+        "1.0.1",
+        "1.0.2",
+        "1.9.1",
+        "10.0.2",
+        "14.1.1",
+        "14.1.2",
+        "19.0.1",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "3.0.5",
+        "3.0.6",
+        "4.0.1",
+        "4.0.4",
+        "4.1.1",
+        "4.1.2",
+        "5.0.3",
+        "5.11.2",
+        "6.0.1",
+        "6.0.2",
+        "6.0.326"
+      ]
+    },
+    {
+      "name": "ts-imports",
+      "versions": [
+        "0.1.3",
+        "0.1.5",
+        "0.2.6",
+        "1.0.1",
+        "1.0.2",
+        "1.0.5",
+        "1.0.6",
+        "1.1.4",
+        "2.0.5",
+        "2.0.8",
+        "21.2.8",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326"
+      ]
+    },
+    {
+      "name": "tvi-cli",
+      "versions": [
+        "0.1.3",
+        "0.1.5",
+        "0.2.6",
+        "1.0.1",
+        "1.0.2",
+        "1.0.5",
+        "1.0.8",
+        "1.1.2",
+        "1.1.4",
+        "21.2.8",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326",
+        "6.10.19"
+      ]
+    },
+    {
+      "name": "typeorm",
+      "versions": [
+        "0.1.3",
+        "0.1.30",
+        "0.2.30",
+        "0.2.31",
+        "0.2.32",
+        "0.2.33",
+        "0.8.5",
+        "1.0.24",
+        "1.0.5",
+        "1.1.27",
+        "1.1.8",
+        "1.3.1",
+        "1.3.35",
+        "1.3.37",
+        "13.0.32",
+        "14.1.38",
+        "2.0.9",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "3.5.2",
+        "3.5.4",
+        "4.5.6",
+        "6.0.326",
+        "6.0.6",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74"
+      ]
+    },
+    {
+      "name": "ui",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.2.1",
+        "0.2.3",
+        "0.2.7",
+        "0.4.1",
+        "0.7.39",
+        "0.8.20",
+        "0.9.10",
+        "0.9.9",
+        "1.1.2",
+        "1.1.4",
+        "1.1.5",
+        "14.1.2",
+        "2.14.5",
+        "5.11.2",
+        "5.3.8",
+        "6.1.7",
+        "6.10.21"
+      ]
+    },
+    {
+      "name": "ui-collectionview",
+      "versions": [
+        "0.1.3",
+        "0.1.30",
+        "0.2.30",
+        "0.2.31",
+        "0.2.33",
+        "0.8.5",
+        "1.1.27",
+        "1.3.1",
+        "1.3.35",
+        "1.3.37",
+        "1.6.9",
+        "14.1.37",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7",
+        "3.0.9",
+        "4.5.6",
+        "5.1.11",
+        "5.1.12",
+        "5.1.13",
+        "5.1.14",
+        "6.0.326",
+        "6.0.6",
+        "7.2.2",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76",
+        "9.0.36"
+      ]
+    },
+    {
+      "name": "ui-document-picker",
+      "versions": [
+        "0.1.30",
+        "1.1.27",
+        "1.1.28",
+        "1.3.35",
+        "1.3.37",
+        "14.1.38",
+        "2.0.9",
+        "2.5.7",
+        "20.0.6",
+        "3.5.4",
+        "4.5.6",
+        "5.0.4",
+        "7.2.72",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "ui-drawer",
+      "versions": [
+        "0.1.30",
+        "0.4.29",
+        "1.3.35",
+        "1.3.37",
+        "1.6.13",
+        "2.0.35",
+        "4.5.6",
+        "4.6.43",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "ui-image",
+      "versions": [
+        "0.4.29",
+        "1.3.35",
+        "1.3.37",
+        "1.6.13",
+        "4.5.6",
+        "4.6.43",
+        "6.0.6",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "ui-label",
+      "versions": [
+        "1.3.35",
+        "1.3.36",
+        "1.3.37",
+        "1.6.10",
+        "1.6.11",
+        "1.6.9",
+        "14.1.36",
+        "2.5.6",
+        "20.0.4",
+        "3.5.3",
+        "5.1.11",
+        "5.1.12",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "ui-material-bottom-navigation",
+      "versions": [
+        "0.2.30",
+        "1.0.5",
+        "14.1.36",
+        "14.1.38",
+        "2.0.8",
+        "2.5.4",
+        "20.0.4",
+        "20.0.5",
+        "20.0.7",
+        "3.0.7",
+        "3.0.8",
+        "5.1.12",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "ui-material-bottomsheet",
+      "versions": [
+        "0.1.30",
+        "0.3.16",
+        "0.4.29",
+        "2.0.35",
+        "4.5.6",
+        "4.6.43",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "ui-material-core",
+      "versions": [
+        "0.3.16",
+        "0.3.21",
+        "0.4.29",
+        "1.3.35",
+        "1.6.12",
+        "14.1.37",
+        "2.5.4",
+        "2.5.5",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "3.0.8",
+        "3.0.9",
+        "4.1.2",
+        "5.0.2",
+        "5.1.13",
+        "7.2.2",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "ui-material-core-tabs",
+      "versions": [
+        "0.2.33",
+        "0.3.16",
+        "0.3.21",
+        "0.4.1",
+        "0.4.29",
+        "0.7.39",
+        "1.9.2",
+        "14.1.36",
+        "14.1.38",
+        "2.0.8",
+        "2.5.5",
+        "20.0.4",
+        "20.0.5",
+        "20.0.7",
+        "3.0.5",
+        "3.0.9",
+        "3.5.5",
+        "4.1.2",
+        "5.1.13",
+        "5.1.14",
+        "7.2.2",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75",
+        "7.2.76"
+      ]
+    },
+    {
+      "name": "ui-material-ripple",
+      "versions": [
+        "0.1.1",
+        "14.1.36",
+        "14.1.38",
+        "2.0.7",
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "20.0.4",
+        "20.0.7",
+        "3.0.5",
+        "3.0.7",
+        "3.0.8",
+        "3.5.5",
+        "5.0.1",
+        "5.0.3",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "ui-material-tabs",
+      "versions": [
+        "0.1.1",
+        "0.1.3",
+        "0.2.32",
+        "1.1.7",
+        "1.6.12",
+        "14.1.36",
+        "14.1.37",
+        "14.1.38",
+        "2.5.4",
+        "2.5.6",
+        "20.0.5",
+        "20.0.6",
+        "3.0.5",
+        "3.0.6",
+        "5.0.1",
+        "5.0.2",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "ui-pager",
+      "versions": [
+        "0.1.1",
+        "0.1.3",
+        "0.2.31",
+        "0.2.32",
+        "1.1.27",
+        "1.1.28",
+        "1.1.6",
+        "14.1.35",
+        "14.1.36",
+        "14.1.37",
+        "14.1.38",
+        "2.0.6",
+        "2.5.4",
+        "2.5.6",
+        "2.5.7",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "3.5.4",
+        "5.0.4",
+        "5.1.12",
+        "7.2.72"
+      ]
+    },
+    {
+      "name": "ui-pulltorefresh",
+      "versions": [
+        "0.1.1",
+        "0.1.3",
+        "1.3.35",
+        "1.6.11",
+        "1.6.12",
+        "1.6.9",
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "2.5.7",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "3.0.6",
+        "5.0.2",
+        "5.0.3",
+        "5.1.11",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "name": "uncertain.",
+      "versions": [
+        "angulartics2@14.1.2",
+        "deluge@7.2.2",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2"
+      ]
+    },
+    {
+      "name": "UTC",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "1.0.2",
+        "1.0.4"
+      ]
+    },
+    {
+      "name": "utils",
+      "versions": [
+        "0.3.14",
+        "0.3.16",
+        "0.4.1",
+        "1.1.4",
+        "9.0.2",
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.58",
+        "9.0.59"
+      ]
+    },
+    {
+      "name": "validation",
+      "versions": [
+        "0.1.6",
+        "0.1.7",
+        "0.1.9",
+        "0.2.1",
+        "0.2.30",
+        "0.2.32",
+        "1.0.9",
+        "1.1.6",
+        "1.1.8",
+        "2.0.35",
+        "3.0.5",
+        "3.0.7",
+        "3.0.9",
+        "3.5.2",
+        "3.5.4"
+      ]
+    },
+    {
+      "name": "variations",
+      "versions": [
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "db-context@2.0.21",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "ve-bamreader",
+      "versions": [
+        "0.0.9",
+        "0.1.3",
+        "0.2.6",
+        "0.2.7",
+        "0.3.14",
+        "0.4.29",
+        "0.7.40",
+        "1.0.1",
+        "1.0.2",
+        "1.1.2",
+        "1.3.2",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "2.14.5",
+        "20.0.20",
+        "35.0.14",
+        "4.0.4",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326",
+        "6.1.7",
+        "6.1.8"
+      ]
+    },
+    {
+      "name": "ve-editor",
+      "versions": [
+        "0.0.9",
+        "0.1.3",
+        "0.2.6",
+        "0.2.7",
+        "0.3.14",
+        "0.3.21",
+        "0.4.29",
+        "0.8.20",
+        "0.9.10",
+        "1.0.1",
+        "1.0.2",
+        "1.1.5",
+        "2.0.24",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "2.14.5",
+        "20.0.20",
+        "4.0.4",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326"
+      ]
+    },
+    {
+      "name": "verror-extra",
+      "versions": [
+        "0.1.3",
+        "1.0.12",
+        "1.0.2",
+        "1.0.5",
+        "11.0.2",
+        "13.0.1",
+        "2.2.1",
+        "21.2.8",
+        "3.0.8",
+        "5.0.3",
+        "6.0.1",
+        "6.0.326"
+      ]
+    },
+    {
+      "name": "versions",
+      "versions": [
+        "0.0.2",
+        "0.0.3",
+        "0.2.1",
+        "0.3.18",
+        "4.1.1",
+        "4.1.2.",
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "db-context@2.0.21",
+        "db-context@2.0.24",
+        "deluge@7.2.2",
+        "di@2.0.28",
+        "di@2.0.32",
+        "golang-template@1.4.3",
+        "magnet-link@4.0.4",
+        "ngx-codemirror@7.0.2",
+        "ngx-csv@6.0.2",
+        "ngx-emoji-mart@9.2.2",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-rightclick@4.0.2",
+        "ngx-virtual-scroller@4.0.4",
+        "qbittorrent@9.7.2",
+        "react-adsense@2.0.2",
+        "shared-torrent@6.3.2",
+        "tinycolor@4.1.1"
+      ]
+    },
+    {
+      "name": "Versions",
+      "versions": [
+        "2.0.24",
+        "2.0.28",
+        "2.0.4",
+        "2.0.7",
+        "20.0.20",
+        "4.0.4"
+      ]
+    },
+    {
+      "name": "versions.",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "voip-callkit",
+      "versions": [
+        "0.1.3",
+        "1.0.2",
+        "1.0.3",
+        "1.0.5",
+        "1.1.5",
+        "1.1.8",
+        "1.1.9",
+        "2.0.15",
+        "2.0.22",
+        "2.0.4",
+        "21.2.8",
+        "5.0.3",
+        "6.0.326",
+        "9.0.43",
+        "9.0.47",
+        "9.0.51"
+      ]
+    },
+    {
+      "name": "wave",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "wdio-web-reporter",
+      "versions": [
+        "0.1.3",
+        "0.8.5",
+        "1.0.13",
+        "1.0.24",
+        "1.0.32",
+        "1.0.5",
+        "21.2.8",
+        "5.0.3",
+        "6.0.326"
+      ]
+    },
+    {
+      "name": "we",
+      "versions": [
+        "20.0.20",
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "web",
+      "versions": [
+        "1.3.35",
+        "1.6.9",
+        "20.0.4",
+        "20.0.5",
+        "20.0.7",
+        "5.1.11",
+        "7.2.72",
+        "9.0.36",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.44",
+        "9.0.46"
+      ]
+    },
+    {
+      "name": "web-angular",
+      "versions": [
+        "2.5.4",
+        "20.0.4",
+        "20.0.5",
+        "20.0.7",
+        "7.2.72",
+        "9.0.36",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.44"
+      ]
+    },
+    {
+      "name": "web-app",
+      "versions": [
+        "0.0.10",
+        "0.0.9",
+        "0.19.1",
+        "0.34.2",
+        "0.4.1",
+        "1.0.1",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.9",
+        "1.205.1",
+        "14.1.35",
+        "2.0.24",
+        "2.0.6",
+        "8.1.1"
+      ]
+    },
+    {
+      "name": "webhook",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "7.0.2",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "Webhook",
+      "versions": [
+        "1.4.3",
+        "4.0.4",
+        "6.0.2",
+        "7.0.2",
+        "7.2.2"
+      ]
+    },
+    {
+      "name": "Webpack",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "which",
+      "versions": [
+        "airpilot@0.8.8"
+      ]
+    },
+    {
+      "name": "While",
+      "versions": [
+        "\"1.0.0\""
+      ]
+    },
+    {
+      "name": "who",
+      "versions": [
+        "tinycolor@4.1.1."
+      ]
+    },
+    {
+      "name": "with",
+      "versions": [
+        "common@2.0.22",
+        "common@2.0.28",
+        "config-eslint@2.0.4",
+        "config-eslint@2.0.5",
+        "config-ts@2.0.7",
+        "config-ts@2.0.8",
+        "db-context@2.0.21",
+        "db-context@2.0.24",
+        "ngx-perfect-scrollbar@20.0.20",
+        "ngx-virtual-scroller@4.0.4"
+      ]
+    },
+    {
+      "name": "xplat",
+      "versions": [
+        "0.1.3",
+        "0.2.31",
+        "0.2.32",
+        "0.2.33",
+        "1.1.27",
+        "1.3.1",
+        "14.1.37",
+        "2.5.4",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7",
+        "5.1.14",
+        "6.0.326",
+        "7.2.72",
+        "9.0.29",
+        "9.0.36",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.44",
+        "9.0.46"
+      ]
+    },
+    {
+      "name": "xplat-utils",
+      "versions": [
+        "1.1.7",
+        "1.1.8",
+        "1.3.35",
+        "1.3.36",
+        "1.3.37",
+        "2.5.4",
+        "2.5.6",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "20.0.7",
+        "3.0.6",
+        "3.5.3",
+        "3.5.5",
+        "5.0.2",
+        "5.1.11",
+        "5.1.14",
+        "7.2.75",
+        "9.0.29",
+        "9.0.36",
+        "9.0.38",
+        "9.0.40",
+        "9.0.42",
+        "9.0.44",
+        "9.0.46"
+      ]
+    },
+    {
+      "name": "yargs-help-output",
+      "versions": [
+        "0.4.2",
+        "1.0.13",
+        "1.0.5",
+        "1.1.3",
+        "2.1.6",
+        "2.2.2",
+        "21.2.8",
+        "5.0.3",
+        "6.0.326"
+      ]
+    },
+    {
+      "name": "yobi",
+      "versions": [
+        "0.0.2",
+        "0.0.4",
+        "0.3.1",
+        "0.8.5",
+        "0.8.8",
+        "1.0.2",
+        "1.1.8",
+        "14.1.1",
+        "3.0.8",
+        "8.7.53"
+      ]
+    },
+    {
+      "name": "yoo-styles",
+      "versions": [
+        "0.8.5",
+        "1.0.13",
+        "1.0.24",
+        "1.0.32",
+        "1.0.5",
+        "21.2.8",
+        "6.0.326",
+        "6.5.17"
+      ]
+    }
+  ]
+}

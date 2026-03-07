@@ -1,0 +1,64 @@
+{
+	"extends": "./tsconfig.paths.json",
+	"compilerOptions": {
+		// The target ECMAScript version to compile the TypeScript code to
+		"target": "ES2020",
+
+		// Specify library files to be included in the compilation - DOM and DOM.Iterable are required for browser environments
+		"lib": ["ES2020", "DOM", "DOM.Iterable"],
+
+		// Module system to use for the output code, ESNext is for modern ES module system
+		"module": "ESNext",
+
+		// How to resolve modules
+		"moduleResolution": "bundler",
+
+		// Allows importing TypeScript files with '.ts' extensions, ensuring compatibility
+		"allowImportingTsExtensions": true,
+
+		// Prevents emitting JavaScript files. The bundler (like Vite) will handle the output
+		"noEmit": true,
+
+		// Defines the JSX transform mode. "react-jsx" is for modern React with JSX transform
+		"jsx": "react-jsx",
+
+		// Skips type checking of declaration files, improving build speed
+		"skipLibCheck": true,
+
+		// Enables all strict type-checking options
+		"strict": true,
+
+		// Disallows unused local variables
+		"noUnusedLocals": true,
+
+		// Disallows unused function parameters
+		"noUnusedParameters": true,
+
+		// Disallows fall-through behavior in switch statements
+		"noFallthroughCasesInSwitch": true,
+
+		// Prevents importing side-effect-only modules unless explicitly imported
+		"noUncheckedSideEffectImports": true,
+
+		// Enables incremental compilation, improving build speed after the initial build
+		"incremental": true,
+
+		// Enables compatibility with ES modules
+		"esModuleInterop": true,
+
+		// Allows importing JSON files as modules
+		"resolveJsonModule": true,
+
+		// Ensures each TypeScript file is treated as a separate module
+		"isolatedModules": true
+	},
+	// The files or directories to include in the compilation
+	"include": [
+		"src", // All files in the 'src' directory
+		"vite.config.ts", // Include the Vite configuration file
+		"src/setupTests.ts",
+		"__mocks__"
+	],
+	// The directories to exclude from compilation.
+	"exclude": ["node_modules"] // Exclude 'node_modules' folder
+}

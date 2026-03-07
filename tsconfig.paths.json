@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./",
+		"paths": {
+			"@": ["src"],
+			"@api": ["src/api"],
+			"@assets": ["src/assets"],
+			"@components": ["src/components"],
+			"@config": ["src/config"],
+			"@enums": ["src/enums"],
+			"@hooks": ["src/hooks"],
+			"@screens": ["src/screens"],
+			"@routes": ["src/routes"],
+			"@providers": ["src/providers"],
+			"@startup": ["src/startup"],
+			"@utils": ["src/utils"]
+		}
+	}
+}
