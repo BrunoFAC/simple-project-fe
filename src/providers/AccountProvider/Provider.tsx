@@ -27,12 +27,7 @@ export function AccountProvider({ children }: PropsWithChildren) {
 		isLoading,
 		isFetched,
 		refetch,
-	} = useQuery({
-		queryKey: ['account'],
-		queryFn: getAccountDetails,
-		enabled: !!token,
-		retry: false,
-	});
+	} = useQuery({ queryKey: ['account'], queryFn: getAccountDetails, enabled: !!token, retry: false });
 
 	const value = useMemo<IAccountContext>(
 		() => ({

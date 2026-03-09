@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-07T20:23:43.217Z",
+  "generated_at": "2026-03-09T18:12:15.095Z",
   "manager": "npm",
   "components": {
-    "length": 423,
+    "length": 445,
     "items": [
       {
         "name": "@babel/code-frame",
@@ -302,7 +302,7 @@
       },
       {
         "name": "@emotion/styled",
-        "version": "11.14.0"
+        "version": "11.14.1"
       },
       {
         "name": "@emotion/unitless",
@@ -469,6 +469,10 @@
         "version": "0.3.5"
       },
       {
+        "name": "@fontsource/roboto",
+        "version": "5.2.10"
+      },
+      {
         "name": "@humanfs/core",
         "version": "0.19.1"
       },
@@ -505,6 +509,38 @@
         "version": "0.3.31"
       },
       {
+        "name": "@mui/core-downloads-tracker",
+        "version": "7.3.9"
+      },
+      {
+        "name": "@mui/icons-material",
+        "version": "7.3.9"
+      },
+      {
+        "name": "@mui/material",
+        "version": "7.3.9"
+      },
+      {
+        "name": "@mui/private-theming",
+        "version": "7.3.9"
+      },
+      {
+        "name": "@mui/styled-engine",
+        "version": "7.3.9"
+      },
+      {
+        "name": "@mui/system",
+        "version": "7.3.9"
+      },
+      {
+        "name": "@mui/types",
+        "version": "7.4.12"
+      },
+      {
+        "name": "@mui/utils",
+        "version": "7.3.9"
+      },
+      {
         "name": "@nodelib/fs.scandir",
         "version": "2.1.5"
       },
@@ -515,6 +551,10 @@
       {
         "name": "@nodelib/fs.walk",
         "version": "1.2.8"
+      },
+      {
+        "name": "@popperjs/core",
+        "version": "2.11.8"
       },
       {
         "name": "@rollup/rollup-android-arm-eabi",
@@ -677,12 +717,20 @@
         "version": "4.0.2"
       },
       {
+        "name": "@types/prop-types",
+        "version": "15.7.15"
+      },
+      {
         "name": "@types/react",
         "version": "19.2.3"
       },
       {
         "name": "@types/react-dom",
         "version": "19.2.3"
+      },
+      {
+        "name": "@types/react-transition-group",
+        "version": "4.4.12"
       },
       {
         "name": "@typescript-eslint/eslint-plugin",
@@ -813,6 +861,10 @@
         "version": "4.1.2"
       },
       {
+        "name": "clsx",
+        "version": "2.1.1"
+      },
+      {
         "name": "color-convert",
         "version": "2.0.1"
       },
@@ -931,6 +983,10 @@
       {
         "name": "dom-accessibility-api",
         "version": "0.5.16"
+      },
+      {
+        "name": "dom-helpers",
+        "version": "5.2.1"
       },
       {
         "name": "dot-prop",
@@ -1082,7 +1138,7 @@
       },
       {
         "name": "flatted",
-        "version": "3.3.4"
+        "version": "3.4.1"
       },
       {
         "name": "follow-redirects",
@@ -1317,6 +1373,10 @@
         "version": "4.6.2"
       },
       {
+        "name": "loose-envify",
+        "version": "1.4.0"
+      },
+      {
         "name": "lru-cache",
         "version": "5.1.1"
       },
@@ -1375,6 +1435,10 @@
       {
         "name": "node-releases",
         "version": "2.0.36"
+      },
+      {
+        "name": "object-assign",
+        "version": "4.1.1"
       },
       {
         "name": "once",
@@ -1453,6 +1517,10 @@
         "version": "27.5.1"
       },
       {
+        "name": "prop-types",
+        "version": "15.8.1"
+      },
+      {
         "name": "proxy-from-env",
         "version": "1.1.0"
       },
@@ -1473,6 +1541,14 @@
         "version": "19.2.3"
       },
       {
+        "name": "react-error-boundary",
+        "version": "6.1.1"
+      },
+      {
+        "name": "react-hook-form",
+        "version": "7.71.2"
+      },
+      {
         "name": "react-i18next",
         "version": "15.5.3"
       },
@@ -1485,6 +1561,10 @@
         "version": "17.0.2"
       },
       {
+        "name": "react-is",
+        "version": "19.2.4"
+      },
+      {
         "name": "react-refresh",
         "version": "0.17.0"
       },
@@ -1495,6 +1575,10 @@
       {
         "name": "react-router-dom",
         "version": "7.6.2"
+      },
+      {
+        "name": "react-transition-group",
+        "version": "4.4.5"
       },
       {
         "name": "resolve",
@@ -1695,6 +1779,10 @@
       {
         "name": "yocto-queue",
         "version": "0.1.0"
+      },
+      {
+        "name": "zod",
+        "version": "4.3.6"
       }
     ]
   }

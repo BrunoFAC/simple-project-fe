@@ -1,17 +1,20 @@
 import { AppErrorBoundary, AppSuspenseFallback } from '@components';
 import { AccountProvider, AppThemeProvider, ReactQueryProvider } from '@providers';
-import { Suspense, type PropsWithChildren } from 'react';
+import { Suspense } from 'react';
+import { App } from '../../App';
 
-export const RootProvider = ({ children }: PropsWithChildren) => {
+export function RootProvider() {
 	return (
 		<AppErrorBoundary>
 			<AppThemeProvider>
 				<ReactQueryProvider>
 					<AccountProvider>
-						<Suspense fallback={<AppSuspenseFallback />}>{children}</Suspense>
+						<Suspense fallback={<AppSuspenseFallback />}>
+							<App />
+						</Suspense>
 					</AccountProvider>
 				</ReactQueryProvider>
 			</AppThemeProvider>
 		</AppErrorBoundary>
 	);
-};
+}
