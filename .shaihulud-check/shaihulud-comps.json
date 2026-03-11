@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-09T18:12:15.095Z",
+  "generated_at": "2026-03-11T02:08:02.228Z",
   "manager": "npm",
   "components": {
-    "length": 445,
+    "length": 450,
     "items": [
       {
         "name": "@babel/code-frame",
@@ -302,7 +302,7 @@
       },
       {
         "name": "@emotion/styled",
-        "version": "11.14.1"
+        "version": "11.14.0"
       },
       {
         "name": "@emotion/unitless",
@@ -471,6 +471,10 @@
       {
         "name": "@fontsource/roboto",
         "version": "5.2.10"
+      },
+      {
+        "name": "@hookform/resolvers",
+        "version": "5.2.2"
       },
       {
         "name": "@humanfs/core",
@@ -655,6 +659,10 @@
       {
         "name": "@rollup/rollup-win32-x64-msvc",
         "version": "4.59.0"
+      },
+      {
+        "name": "@standard-schema/utils",
+        "version": "0.3.0"
       },
       {
         "name": "@tanstack/query-core",
@@ -859,6 +867,10 @@
       {
         "name": "clear-module",
         "version": "4.1.2"
+      },
+      {
+        "name": "clsx",
+        "version": "1.2.1"
       },
       {
         "name": "clsx",
@@ -1209,6 +1221,10 @@
         "version": "16.0.0"
       },
       {
+        "name": "goober",
+        "version": "2.1.18"
+      },
+      {
         "name": "gopd",
         "version": "1.2.0"
       },
@@ -1435,6 +1451,10 @@
       {
         "name": "node-releases",
         "version": "2.0.36"
+      },
+      {
+        "name": "notistack",
+        "version": "3.0.2"
       },
       {
         "name": "object-assign",
