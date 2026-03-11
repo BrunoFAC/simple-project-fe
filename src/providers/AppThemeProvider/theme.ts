@@ -6,7 +6,7 @@ export const createAppTheme = (mode: PaletteMode) => {
 		palette: {
 			mode,
 			primary: { main: isDark ? '#90caf9' : '#1976d2' },
-			secondary: { main: isDark ? '#ce93d8' : '#9c27b0' },
+			secondary: { main: isDark ? '#60588f' : '#4e2d8b' },
 			background: { default: isDark ? '#161616' : '#f8fafc', paper: isDark ? '#1a1c1f' : '#ffffff' },
 		},
 		shape: { borderRadius: 8 },
@@ -18,7 +18,14 @@ export const createAppTheme = (mode: PaletteMode) => {
 		components: {
 			MuiButton: {
 				defaultProps: { disableElevation: true },
-				styleOverrides: { root: { textTransform: 'none', borderRadius: 10 } },
+				styleOverrides: { root: { textTransform: 'none', borderRadius: 8 } },
+			},
+			MuiCheckbox: {
+				defaultProps: { disableTouchRipple: true },
+				styleOverrides: { root: { ':hover': { backgroundColor: 'transparent' } } },
+			},
+			MuiListItemButton: {
+				styleOverrides: { root: { textTransform: 'none', borderRadius: 8, minHeight: 48 } },
 			},
 			MuiPaper: { styleOverrides: { root: { backgroundImage: 'none' } } },
 			MuiTextField: { defaultProps: { fullWidth: true, size: 'small', variant: 'outlined' } },
