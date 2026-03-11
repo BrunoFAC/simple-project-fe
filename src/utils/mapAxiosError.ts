@@ -2,14 +2,7 @@ import { errorMessages, statusMessages } from '@utils';
 import i18next from 'i18next';
 
 export function mapAxiosError(err: unknown): string {
-	const axiosError = err as {
-		response?: {
-			data?: {
-				error?: number;
-			};
-			status?: number;
-		};
-	};
+	const axiosError = err as { response?: { data?: { error?: number }; status?: number } };
 
 	const errorCode = axiosError?.response?.data?.error;
 	const statusCode = axiosError?.response?.status;

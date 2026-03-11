@@ -1,19 +1,38 @@
 import { AppSuspenseFallback, RootLayout, RouteErrorFallback } from '@components';
-import { screens, Screens } from '@routes';
+import { useAccount } from '@providers';
+import { pages, Pages } from '@routes';
 import { Paths } from '@utils';
 import { PropsWithChildren, Suspense } from 'react';
 import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom';
+
+interface AppProtectedRouteProps extends PropsWithChildren {
+	access: 'session' | 'guest';
+}
 
 const AppSuspense = ({ children }: PropsWithChildren) => (
 	<Suspense fallback={<AppSuspenseFallback />}>{children}</Suspense>
 );
 
-const appRoutes = Object.keys(screens).map((screenKey) => {
-	const key = screenKey as keyof Screens;
-	const { path, Component } = screens[key];
+const AppProtectedRoute = ({ children, access }: AppProtectedRouteProps) => {
+	const { isAuthenticated, isLoadingAccount, hasCheckedAccountOnce } = useAccount();
+
+	if (!hasCheckedAccountOnce || isLoadingAccount) return <AppSuspenseFallback />;
+
+	if (access === 'session' && !isAuthenticated) return <Navigate to={Paths.Login} replace />;
+
+	if (access === 'guest' && isAuthenticated) return <Navigate to={Paths.Home} replace />;
+
+	return children;
+};
+
+const appRoutes = Object.keys(pages).map((screenKey) => {
+	const key = screenKey as keyof Pages;
+	const { path, Component, access } = pages[key];
 	const element = (
 		<AppSuspense>
-			<Component />
+			<AppProtectedRoute access={access}>
+				<Component />
+			</AppProtectedRoute>
 		</AppSuspense>
 	);
 

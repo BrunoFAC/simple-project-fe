@@ -3,5 +3,7 @@ export * from './dateFormatter';
 export * from './errorMessage';
 export * from './mapAxiosError';
 export * from './paths';
+export * from './regex';
 export * from './role';
 export * from './statusMessage';
+export * from './toast';
