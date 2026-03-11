@@ -1,23 +1,38 @@
 {
-	"general": {
-		"EMAIL": "Email",
-		"PASSWORD": "Password"
-	},
 	"components": {
 		"GO_BACK": {
 			"HOME": "Get back at home",
 			"BACK": "Back"
+		},
+		"HEADER": {
+			"TITLE": "Feature Flags"
+		},
+		"LATERAL_MENU": {
+			"TITLE": "Feature Flags",
+			"DESCRIPTION": "Management Platform",
+			"ITEMS": {
+				"DASHBOARD": "Dashboard",
+				"FEATURE_FLAGS": "Feature Flags",
+				"USERS": "Users",
+				"SETTINGS": "Settings"
+			}
 		}
 	},
-
 	"screens": {
-		"HOME": {
-			"TITLE_SAMPLE": "ContextAPI:",
-			"BUTTON_SAMPLE": "navigate",
-			"TITLE_REDUX": "Redux:",
-			"BUTTON_REDUX": "navigate",
-			"TITLE_ZUSTAND": "Zustand:",
-			"BUTTON_ZUSTAND": "navigate"
+		"LOGIN": {
+			"FORM_TITLE": "Sign in",
+			"FORM_DESCRIPTION": "Access your feature flags workspace.",
+			"FORM_BUTTON": "Sign in",
+			"NO_ACCOUNT": "Don't have an account? ",
+			"NO_ACCOUNT_BUTTON": "Sign up",
+			"REMEMBER_ME": "Remember me"
+		},
+		"REGISTER": {
+			"FORM_TITLE": "Create account",
+			"FORM_DESCRIPTION": "Register to manage feature flags, beta users, and rollouts.",
+			"FORM_BUTTON": "Sign up",
+			"ALREADY_GOT_ACCOUNT": "Already have an account? ",
+			"ALREADY_GOT_ACCOUNT_BUTTON": "Sign in"
 		}
 	},
 	"account": {
@@ -26,16 +41,20 @@
 			"MEMBER": "Member"
 		}
 	},
-	"login": {
-		"LOGIN": "Login with Telegram",
-		"LOGIN_BUTTON": "LOGIN"
-	},
 	"router": {
 		"TITLE": "An unexpected error as occurred.",
 		"DESCRIPTION": "Please, try again."
 	},
+	"services": {
+		"LOGIN_SUCCESS": "You have logged in successfully.",
+		"REGISTER_SUCCESS": "Your account has been created successfully.",
+		"LOGOUT_SUCCESS": "You have logged out successfully."
+	},
 	"errors": {
 		"MISSING_DATA": "Missing required data.",
+		"USERNAME_MANDATORY": "Username is required.",
+		"EMAIL_MANDATORY": "E-mail is required.",
+		"PASSWORD_MANDATORY": "Password is required.",
 		"ACCOUNT_NOT_FOUND_EMAIL": "Account not found for this email.",
 		"ACCOUNT_NOT_FOUND": "Account not found.",
 		"OTP_NOT_FOUND": "The provided OTP is invalid or expired.",
@@ -43,19 +62,25 @@
 		"API_KEY_NOT_FOUND": "API key not found.",
 		"ACCOUNT_IS_BEING_USED": "Account is already in use.",
 		"API_IS_BEING_USED": "API is already in use.",
-		"API_NAME_IS_BEING_USED": "API name is already in use.",
-		"API_URL_IS_BEING_USED": "API URL is already in use.",
-		"OTP_HAS_BEEN_USED": "That OTP has already been used.",
 		"INVALID_EMAIL": "Invalid email address.",
+		"INVALID_EMAIL_CREATION": "Invalid email address format.",
+		"INVALID_USERNAME_CREATION": "Username may only contain letters, numbers, and underscores.",
 		"PASSWORDS_DONT_MATCH": "Passwords don't match.",
 		"INVALID_PASSWORD": "Invalid password.",
+		"INVALID_PASSWORD_CREATION": "Password must be at least 12 characters long and contain uppercase, lowercase, numeric, and special characters.",
 		"INVALID_ENUM": "Invalid enum value.",
 		"INVALID_TOKEN": "Invalid token.",
 		"WRONG_CREDENTIALS": "Wrong credentials provided.",
 		"USER_LOCKED": "The user is locked.",
 		"UNEXPECTED_ERROR": "Unexpected error.",
 		"SOMETHING_WENT_WRONG": "Something went wrong.",
-		"TRY_AGAIN": "Try again"
+		"TRY_AGAIN": "Try again",
+		"INVALID_DATA": "Invalid data.",
+		"INVALID_USERNAME": "Invalid username.",
+		"ACCOUNT_FOUND_USERNAME": "An account already exists with this username.",
+		"ACCOUNT_FOUND_EMAIL": "An account already exists with this email.",
+		"FILE_TOO_LARGE": "The file is too large.",
+		"INTERNAL_SERVER_ERROR": "An internal server error occurred. Please try again later."
 	},
 	"status": {
 		"OK": "Request succeeded.",

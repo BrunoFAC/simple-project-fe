@@ -27,7 +27,7 @@ export function RouteErrorFallback() {
 				<Button variant="outlined" onClick={() => navigate(-1)}>
 					{t('components.GO_BACK.BACK')}
 				</Button>
-				<Button variant="contained" onClick={() => navigate(Paths.Home, { replace: true })}>
+				<Button variant="contained" onClick={() => navigate(Paths.Dashboard, { replace: true })}>
 					{t('components.GO_BACK.HOME')}
 				</Button>
 			</Stack>

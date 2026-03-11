@@ -18,7 +18,7 @@ export function useLoginMutation() {
 			setSessionToken(token);
 			await queryClient.fetchQuery({ queryKey: ['account'], queryFn: getAccountDetails });
 			toast({ message: t('services.LOGIN_SUCCESS'), variant: 'success' });
-			navigate(Paths.Home, { replace: true });
+			navigate(Paths.Dashboard, { replace: true });
 		},
 	});
 }

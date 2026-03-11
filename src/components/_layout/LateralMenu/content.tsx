@@ -30,7 +30,7 @@ export function DrawerContent({ isDarkMode, handleDrawerToggle, onToggleTheme }:
 	const handleLogout = useLogout();
 
 	const isRouteActive = (path: string) => {
-		if (path === Paths.Home) return location.pathname === Paths.Home;
+		if (path === Paths.Dashboard) return location.pathname === Paths.Dashboard;
 		return location.pathname.startsWith(path);
 	};
 

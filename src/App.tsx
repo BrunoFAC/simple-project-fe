@@ -20,7 +20,7 @@ const AppProtectedRoute = ({ children, access }: AppProtectedRouteProps) => {
 
 	if (access === 'session' && !isAuthenticated) return <Navigate to={Paths.Login} replace />;
 
-	if (access === 'guest' && isAuthenticated) return <Navigate to={Paths.Home} replace />;
+	if (access === 'guest' && isAuthenticated) return <Navigate to={Paths.Dashboard} replace />;
 
 	return children;
 };
@@ -43,7 +43,7 @@ const appRouter = createBrowserRouter([
 	{
 		element: <RootLayout />,
 		errorElement: <RouteErrorFallback />,
-		children: [...appRoutes, { path: '*', element: <Navigate to={Paths.Home} replace /> }],
+		children: [...appRoutes, { path: '*', element: <Navigate to={Paths.Dashboard} replace /> }],
 	},
 ]);
 
