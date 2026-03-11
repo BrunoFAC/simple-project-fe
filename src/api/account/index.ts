@@ -1,7 +1,7 @@
+import { AccountSummaryDTO } from '@apiClient';
 import { apiAxios } from '@startup';
-import { AccountDetailsDTO } from './interface';
 
-export async function getAccountDetails(): Promise<AccountDetailsDTO> {
-	const { data } = await apiAxios.get<AccountDetailsDTO>('/account');
+export async function getAccountDetails(): Promise<AccountSummaryDTO> {
+	const { data } = await apiAxios.get<AccountSummaryDTO>('/accounts/summary');
 	return data;
 }
