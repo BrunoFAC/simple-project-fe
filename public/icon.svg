@@ -1,0 +1,74 @@
+<svg viewBox="200 240 640 620" width="640" height="620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGlow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(265 780) rotate(-33) scale(430 420)">
+      <stop offset="0" stop-color="#4B5BFF" stop-opacity="0.70"/>
+      <stop offset="1" stop-color="#4B5BFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgGlow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(775 610) rotate(140) scale(440 420)">
+      <stop offset="0" stop-color="#4B5BFF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#4B5BFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bgBase" x1="90" y1="20" x2="930" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A9C6EE"/>
+      <stop offset="0.55" stop-color="#96B8F0"/>
+      <stop offset="1" stop-color="#B6C5EF"/>
+    </linearGradient>
+
+    <filter id="bgBlur" x="-200" y="-200" width="1424" height="1424" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+
+    <filter id="cardShadow" x="90" y="110" width="760" height="760" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#5B6BFF" flood-opacity="0.20"/>
+    </filter>
+
+    <radialGradient id="bigCircle" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(458 454) rotate(40) scale(265 265)">
+      <stop offset="0" stop-color="#EEF2FA" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#D9E2F4" stop-opacity="0.92"/>
+    </radialGradient>
+
+    <linearGradient id="blueGrad" x1="284" y1="430" x2="665" y2="575" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3558FF"/>
+      <stop offset="1" stop-color="#5E49FF"/>
+    </linearGradient>
+
+    <linearGradient id="blueGrad2" x1="501" y1="343" x2="698" y2="543" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3558FF"/>
+      <stop offset="1" stop-color="#5C47FF"/>
+    </linearGradient>
+
+    <filter id="soften" x="180" y="250" width="560" height="420" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="0.4"/>
+    </filter>
+  </defs>
+
+
+  <g filter="url(#cardShadow)">
+    <rect x="215" y="265" width="594" height="589" rx="95" fill="#F5F5F5"/>
+  </g>
+
+  <g filter="url(#soften)">
+    <circle cx="508" cy="509" r="135" fill="url(#bigCircle)"/>
+    <circle cx="433" cy="531" r="106" fill="url(#blueGrad)" fill-opacity="0.92"/>
+    <rect x="492" y="345" width="23" height="271" rx="11.5" fill="#3055FF" fill-opacity="0.92"/>
+    <path d="M515 357
+             C553 356 592 357 628 360
+             C646 361 658 359 669 361
+             C676 362 681 368 681 376
+             L681 530
+             C681 539 675 545 667 545
+             C645 545 626 536 604 532
+             C585 529 564 527 543 530
+             C532 532 523 538 515 543
+             Z"
+          fill="url(#blueGrad2)" fill-opacity="0.92"/>
+  </g>
+
+  <text x="512" y="768"
+        text-anchor="middle"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="58"
+        font-weight="700"
+        letter-spacing="-1.2"
+        fill="#162449">Feature flags</text>
+</svg>
