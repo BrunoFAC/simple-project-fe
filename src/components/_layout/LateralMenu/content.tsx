@@ -42,23 +42,7 @@ export function DrawerContent({ isDarkMode, handleDrawerToggle, onToggleTheme }:
 		<Stack sx={{ height: '100%' }}>
 			<Box sx={{ px: 2.5, py: 2 }}>
 				<Stack direction="row" spacing={1.5} alignItems="center">
-					<Box
-						sx={{
-							width: 40,
-							height: 40,
-							borderRadius: 2,
-							display: 'flex',
-							alignItems: 'center',
-							justifyContent: 'center',
-							bgcolor: 'primary.main',
-							color: 'primary.contrastText',
-							fontWeight: 700,
-							fontSize: 18,
-						}}
-					>
-						F
-					</Box>
-
+					<img src="icon.svg" loading="lazy" style={{ width: 40, height: 40, borderRadius: 10 }} />
 					<Box>
 						<Typography variant="subtitle1" fontWeight={700}>
 							{t('components.LATERAL_MENU.TITLE')}
