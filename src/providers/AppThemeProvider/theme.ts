@@ -24,9 +24,7 @@ export const createAppTheme = (mode: PaletteMode) => {
 				defaultProps: { disableTouchRipple: true },
 				styleOverrides: { root: { ':hover': { backgroundColor: 'transparent' } } },
 			},
-			MuiListItemButton: {
-				styleOverrides: { root: { textTransform: 'none', borderRadius: 8, minHeight: 48 } },
-			},
+			MuiListItemButton: { styleOverrides: { root: { textTransform: 'none', borderRadius: 8, minHeight: 48 } } },
 			MuiPaper: { styleOverrides: { root: { backgroundImage: 'none' } } },
 			MuiTextField: { defaultProps: { fullWidth: true, size: 'small', variant: 'outlined' } },
 			MuiOutlinedInput: { styleOverrides: { root: { borderRadius: 10 } } },

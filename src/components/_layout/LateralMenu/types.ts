@@ -13,8 +13,28 @@ export type LateralMenuProps = PropsWithChildren<{
 }>;
 
 export const navigationItems = [
-	{ label: 'components.LATERAL_MENU.ITEMS.DASHBOARD', path: Paths.Dashboard, icon: DashboardRoundedIcon },
-	{ label: 'components.LATERAL_MENU.ITEMS.FEATURE_FLAGS', path: Paths.FeatureFlags, icon: FlagRoundedIcon },
-	{ label: 'components.LATERAL_MENU.ITEMS.USERS', path: Paths.Users, icon: GroupRoundedIcon },
-	{ label: 'components.LATERAL_MENU.ITEMS.SETTINGS', path: Paths.Settings, icon: SettingsRoundedIcon },
+	{
+		label: 'components.LATERAL_MENU.ITEMS.DASHBOARD',
+		path: Paths.Dashboard,
+		icon: DashboardRoundedIcon,
+		requiresPermissions: false,
+	},
+	{
+		label: 'components.LATERAL_MENU.ITEMS.FEATURE_FLAGS',
+		path: Paths.FeatureFlags,
+		icon: FlagRoundedIcon,
+		requiresPermissions: true,
+	},
+	{
+		label: 'components.LATERAL_MENU.ITEMS.USERS',
+		path: Paths.Users,
+		icon: GroupRoundedIcon,
+		requiresPermissions: true,
+	},
+	{
+		label: 'components.LATERAL_MENU.ITEMS.SETTINGS',
+		path: Paths.Settings,
+		icon: SettingsRoundedIcon,
+		requiresPermissions: false,
+	},
 ];

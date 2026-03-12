@@ -1,3 +1,4 @@
+import { AccountRoleEnum } from '@enums';
 import { useLogout } from '@hooks';
 import DarkModeRoundedIcon from '@mui/icons-material/DarkModeRounded';
 import LightModeRoundedIcon from '@mui/icons-material/LightModeRounded';
@@ -14,6 +15,7 @@ import {
 	useMediaQuery,
 	useTheme,
 } from '@mui/material';
+import { useAccount } from '@providers';
 import { Paths } from '@utils';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
@@ -23,7 +25,7 @@ type DrawerContentProps = { onToggleTheme?: () => void; handleDrawerToggle: () =
 
 export function DrawerContent({ isDarkMode, handleDrawerToggle, onToggleTheme }: DrawerContentProps) {
 	const { t } = useTranslation();
-
+	const { account } = useAccount();
 	const theme = useTheme();
 	const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
@@ -33,6 +35,8 @@ export function DrawerContent({ isDarkMode, handleDrawerToggle, onToggleTheme }:
 		if (path === Paths.Dashboard) return location.pathname === Paths.Dashboard;
 		return location.pathname.startsWith(path);
 	};
+
+	const isAdmin = account?.role === AccountRoleEnum.Admin;
 
 	return (
 		<Stack sx={{ height: '100%' }}>
@@ -70,31 +74,33 @@ export function DrawerContent({ isDarkMode, handleDrawerToggle, onToggleTheme }:
 
 			<Box sx={{ px: 1.5, py: 2, flex: 1 }}>
 				<List disablePadding>
-					{navigationItems.map((item) => {
-						const active = isRouteActive(item.path);
-						const Icon = item.icon;
+					{navigationItems
+						.filter((e) => (e.requiresPermissions ? isAdmin : true))
+						.map((item) => {
+							const active = isRouteActive(item.path);
+							const Icon = item.icon;
 
-						return (
-							<ListItemButton
-								key={item.path}
-								component={Link}
-								to={item.path}
-								onClick={isMobile ? handleDrawerToggle : undefined}
-								sx={{
-									mb: 0.5,
-									bgcolor: active ? 'action.selected' : 'transparent',
-									color: active ? 'text.primary' : 'text.secondary',
-									'&:hover': { bgcolor: 'action.hover' },
-								}}
-							>
-								<ListItemIcon sx={{ minWidth: 40, color: active ? 'primary.main' : 'inherit' }}>
-									<Icon />
-								</ListItemIcon>
+							return (
+								<ListItemButton
+									key={item.path}
+									component={Link}
+									to={item.path}
+									onClick={isMobile ? handleDrawerToggle : undefined}
+									sx={{
+										mb: 0.5,
+										bgcolor: active ? 'action.selected' : 'transparent',
+										color: active ? 'text.primary' : 'text.secondary',
+										'&:hover': { bgcolor: 'action.hover' },
+									}}
+								>
+									<ListItemIcon sx={{ minWidth: 40, color: active ? 'primary.main' : 'inherit' }}>
+										<Icon />
+									</ListItemIcon>
 
-								<ListItemText primary={t(item.label)} />
-							</ListItemButton>
-						);
-					})}
+									<ListItemText primary={t(item.label)} />
+								</ListItemButton>
+							);
+						})}
 				</List>
 			</Box>
 

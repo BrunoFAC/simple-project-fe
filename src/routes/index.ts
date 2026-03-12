@@ -8,7 +8,7 @@ const lazyScreen = <T extends ScreenKey>(screenName: T) =>
 
 export type AppScreen = {
 	path: Paths;
-	access: 'session' | 'guest';
+	access: 'session' | 'guest' | 'admin';
 	Component: React.LazyExoticComponent<FC>;
 };
 export type Pages = {
@@ -24,7 +24,7 @@ export const pages: Pages = {
 	login: { path: Paths.Login, access: 'guest', Component: lazyScreen('Login') },
 	register: { path: Paths.Register, access: 'guest', Component: lazyScreen('Register') },
 	dashboard: { path: Paths.Dashboard, access: 'session', Component: lazyScreen('Home') },
-	featureFlags: { path: Paths.FeatureFlags, access: 'session', Component: lazyScreen('FeatureFlags') },
-	users: { path: Paths.Users, access: 'session', Component: lazyScreen('Users') },
+	featureFlags: { path: Paths.FeatureFlags, access: 'admin', Component: lazyScreen('FeatureFlags') },
+	users: { path: Paths.Users, access: 'admin', Component: lazyScreen('Users') },
 	settings: { path: Paths.Settings, access: 'session', Component: lazyScreen('Settings') },
 };
