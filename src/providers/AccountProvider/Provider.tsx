@@ -1,7 +1,7 @@
 import { getAccountDetails } from '@api';
 import { useQuery } from '@tanstack/react-query';
 import { getCookie } from '@utils';
-import { JSX, useContext, useMemo, useState, type PropsWithChildren } from 'react';
+import { JSX, useMemo, useState, type PropsWithChildren } from 'react';
 
 import { AccountSummaryDTO } from '@apiClient';
 import { AppSuspenseFallback } from '@components';
@@ -49,15 +49,7 @@ export function AccountProvider({ children }: PropsWithChildren) {
 		[account, isLoading, isFetched, token, refetch]
 	);
 
-	console.log({ value: value.isAuthenticated });
-
 	if (token && isLoading) return <AppSuspenseFallback />;
 
 	return <AccountContext.Provider value={value}>{children}</AccountContext.Provider>;
-}
-
-export function useAccount() {
-	const context = useContext(AccountContext);
-	if (!context) throw new Error('This hook must only be used inside AccountProvider');
-	return context;
 }
