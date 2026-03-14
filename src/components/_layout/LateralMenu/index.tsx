@@ -1,14 +1,11 @@
 import { Box, Drawer, useTheme } from '@mui/material';
-import { useAppThemeMode } from '@providers';
 import { DRAWER_WIDTH } from '../RootLayout';
-import { DrawerContent } from './content';
+import { DrawerContent } from './DrawerContent';
 
 type LateralMenuProps = { mobileOpen: boolean; handleDrawerToggle: () => void };
 
 export function LateralMenu({ mobileOpen, handleDrawerToggle }: LateralMenuProps) {
 	const theme = useTheme();
-	const { mode } = useAppThemeMode();
-	const isDarkMode = mode === 'dark';
 
 	return (
 		<Box component="nav" sx={{ width: { md: DRAWER_WIDTH }, flexShrink: { md: 0 } }}>
@@ -22,7 +19,7 @@ export function LateralMenu({ mobileOpen, handleDrawerToggle }: LateralMenuProps
 					'& .MuiDrawer-paper': { width: DRAWER_WIDTH, boxSizing: 'border-box' },
 				}}
 			>
-				<DrawerContent handleDrawerToggle={handleDrawerToggle} isDarkMode={isDarkMode} />
+				<DrawerContent handleDrawerToggle={handleDrawerToggle} />
 			</Drawer>
 
 			<Drawer
@@ -38,7 +35,7 @@ export function LateralMenu({ mobileOpen, handleDrawerToggle }: LateralMenuProps
 					},
 				}}
 			>
-				<DrawerContent handleDrawerToggle={handleDrawerToggle} isDarkMode={isDarkMode} />
+				<DrawerContent handleDrawerToggle={handleDrawerToggle} />
 			</Drawer>
 		</Box>
 	);

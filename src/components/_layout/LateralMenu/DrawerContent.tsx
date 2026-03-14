@@ -15,18 +15,20 @@ import {
 	useMediaQuery,
 	useTheme,
 } from '@mui/material';
-import { useAccount } from '@providers';
+import { useAccount, useAppThemeMode } from '@providers';
 import { Paths } from '@utils';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { navigationItems } from './types';
 
-type DrawerContentProps = { handleDrawerToggle: () => void; isDarkMode?: boolean };
+type DrawerContentProps = { handleDrawerToggle: () => void };
 
-export function DrawerContent({ isDarkMode, handleDrawerToggle }: DrawerContentProps) {
+export function DrawerContent({ handleDrawerToggle }: DrawerContentProps) {
 	const { t } = useTranslation();
 	const { account } = useAccount();
 	const theme = useTheme();
+	const { mode, toggleColorMode } = useAppThemeMode();
+	const isDarkMode = mode === 'dark';
 	const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
 	const handleLogout = useLogout();
@@ -92,7 +94,7 @@ export function DrawerContent({ isDarkMode, handleDrawerToggle }: DrawerContentP
 
 			<Box sx={{ p: 1.5 }}>
 				<List disablePadding>
-					<ListItemButton sx={{ mb: 0.5 }}>
+					<ListItemButton onClick={toggleColorMode} sx={{ mb: 0.5 }}>
 						<ListItemIcon sx={{ minWidth: 40 }}>
 							{isDarkMode ? <LightModeRoundedIcon /> : <DarkModeRoundedIcon />}
 						</ListItemIcon>
