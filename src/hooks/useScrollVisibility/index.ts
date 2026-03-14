@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-export const useScrollVisibility = () => {
+export function useScrollVisibility() {
 	const [isVisible, setIsVisible] = useState<boolean>(true);
 
 	useEffect(() => {
@@ -13,4 +13,4 @@ export const useScrollVisibility = () => {
 		hide: () => setIsVisible(true),
 		show: () => setIsVisible(false),
 	};
-};
+}
