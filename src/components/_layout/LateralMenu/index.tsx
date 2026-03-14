@@ -3,11 +3,11 @@ import { useAppThemeMode } from '@providers';
 import { DRAWER_WIDTH } from '../RootLayout';
 import { DrawerContent } from './content';
 
-type LateralMenuProps = { mobileOpen: boolean; handleDrawerToggle: () => void; onToggleTheme?: () => void };
+type LateralMenuProps = { mobileOpen: boolean; handleDrawerToggle: () => void };
 
-export function LateralMenu({ mobileOpen, handleDrawerToggle, onToggleTheme }: LateralMenuProps) {
+export function LateralMenu({ mobileOpen, handleDrawerToggle }: LateralMenuProps) {
 	const theme = useTheme();
-	const { mode, toggleColorMode } = useAppThemeMode();
+	const { mode } = useAppThemeMode();
 	const isDarkMode = mode === 'dark';
 
 	return (
@@ -22,11 +22,7 @@ export function LateralMenu({ mobileOpen, handleDrawerToggle, onToggleTheme }: L
 					'& .MuiDrawer-paper': { width: DRAWER_WIDTH, boxSizing: 'border-box' },
 				}}
 			>
-				<DrawerContent
-					handleDrawerToggle={handleDrawerToggle}
-					isDarkMode={isDarkMode}
-					onToggleTheme={onToggleTheme}
-				/>
+				<DrawerContent handleDrawerToggle={handleDrawerToggle} isDarkMode={isDarkMode} />
 			</Drawer>
 
 			<Drawer
@@ -42,11 +38,7 @@ export function LateralMenu({ mobileOpen, handleDrawerToggle, onToggleTheme }: L
 					},
 				}}
 			>
-				<DrawerContent
-					isDarkMode={isDarkMode}
-					onToggleTheme={toggleColorMode}
-					handleDrawerToggle={handleDrawerToggle}
-				/>
+				<DrawerContent handleDrawerToggle={handleDrawerToggle} isDarkMode={isDarkMode} />
 			</Drawer>
 		</Box>
 	);

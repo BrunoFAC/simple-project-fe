@@ -21,9 +21,9 @@ import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { navigationItems } from './types';
 
-type DrawerContentProps = { onToggleTheme?: () => void; handleDrawerToggle: () => void; isDarkMode?: boolean };
+type DrawerContentProps = { handleDrawerToggle: () => void; isDarkMode?: boolean };
 
-export function DrawerContent({ isDarkMode, handleDrawerToggle, onToggleTheme }: DrawerContentProps) {
+export function DrawerContent({ isDarkMode, handleDrawerToggle }: DrawerContentProps) {
 	const { t } = useTranslation();
 	const { account } = useAccount();
 	const theme = useTheme();
@@ -92,7 +92,7 @@ export function DrawerContent({ isDarkMode, handleDrawerToggle, onToggleTheme }:
 
 			<Box sx={{ p: 1.5 }}>
 				<List disablePadding>
-					<ListItemButton onClick={onToggleTheme} sx={{ mb: 0.5 }}>
+					<ListItemButton sx={{ mb: 0.5 }}>
 						<ListItemIcon sx={{ minWidth: 40 }}>
 							{isDarkMode ? <LightModeRoundedIcon /> : <DarkModeRoundedIcon />}
 						</ListItemIcon>
