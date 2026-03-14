@@ -12,6 +12,8 @@
 
 import {
   AccountSummaryDTO,
+  AccountUpdateRoleDTO,
+  AccountUpdateRoleRequest,
   TableResultAccountsListDTO,
 } from "./data-contracts";
 import { ContentType, HttpClient, RequestParams } from "./http-client";
@@ -84,6 +86,28 @@ export class Accounts<
       body: data,
       secure: true,
       type: ContentType.FormData,
+      ...params,
+    });
+  /**
+   * @description Update account role
+   *
+   * @tags Accounts
+   * @name AccountIdRolePartialUpdate
+   * @request PATCH:/accounts/:accountId/role
+   * @secure
+   */
+  accountIdRolePartialUpdate = (
+    accountId: string,
+    data: AccountUpdateRoleRequest,
+    params: RequestParams = {},
+  ) =>
+    this.request<AccountUpdateRoleDTO, void>({
+      path: `/accounts/${accountId}/role`,
+      method: "PATCH",
+      body: data,
+      secure: true,
+      type: ContentType.Json,
+      format: "json",
       ...params,
     });
 }

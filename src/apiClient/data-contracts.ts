@@ -16,6 +16,10 @@ export interface AccountsQuery {
   search?: string;
 }
 
+export interface AccountUpdateRoleRequest {
+  role: number;
+}
+
 export interface AccountsRoleRequest {
   accountsId: any[];
 }
@@ -39,9 +43,10 @@ export interface RegisterRequest {
 export interface AccountListDTO {
   id: number;
   email: string;
-  name: string;
+  username: string;
   role: number;
   creationDate: date;
+  updateDate: date;
 }
 
 export interface TableResultAccountsListDTO {
@@ -56,9 +61,11 @@ export interface AccountSummaryDTO {
   role: number;
 }
 
-export interface AccountDTO {
+export interface AccountUpdateRoleDTO {
   id: number;
-  name: string;
+  email: string;
+  role: number;
+  username: string;
 }
 
 export interface LoginDTO {

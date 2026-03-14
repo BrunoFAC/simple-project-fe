@@ -1,6 +1,6 @@
 import { createTheme, type PaletteMode } from '@mui/material/styles';
 
-export const createAppTheme = (mode: PaletteMode) => {
+export function createAppTheme(mode: PaletteMode) {
 	const isDark = mode === 'dark';
 	return createTheme({
 		palette: {
@@ -31,6 +31,7 @@ export const createAppTheme = (mode: PaletteMode) => {
 			MuiCard: { styleOverrides: { root: { borderRadius: 14 } } },
 			MuiAppBar: { defaultProps: { elevation: 0, color: 'transparent' } },
 			MuiDrawer: { styleOverrides: { paper: { borderRight: '1px solid' } } },
+			MuiTableRow: { styleOverrides: { root: { '&:last-child td, &:last-child th': { borderBottom: 0 } } } },
 		},
 	});
-};
+}

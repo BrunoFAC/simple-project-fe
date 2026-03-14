@@ -9,6 +9,7 @@ export const errorMessages: Record<number, string> = {
 	[ErrorsEnum.AccountFoundUsername]: 'errors.ACCOUNT_FOUND_USERNAME',
 	[ErrorsEnum.AccountFoundEmail]: 'errors.ACCOUNT_FOUND_EMAIL',
 	[ErrorsEnum.AccountNotFoundEmail]: 'errors.ACCOUNT_NOT_FOUND_EMAIL',
+	[ErrorsEnum.AccountNotFound]: 'errors.ACCOUNT_NOT_FOUND',
 	[ErrorsEnum.WrongCredentials]: 'errors.WRONG_CREDENTIALS',
 	[ErrorsEnum.UserLocked]: 'errors.USER_LOCKED',
 	[ErrorsEnum.FileTooLarge]: 'errors.FILE_TOO_LARGE',
